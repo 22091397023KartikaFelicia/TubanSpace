@@ -15,7 +15,7 @@ Universitas Negeri Surabaya
 
 
 
-1. Pendahuluan
+**1. Pendahuluan**
 
 Indonesia menawarkan pengalaman wisata yang tak terlupakan bagi para pengunjung. Terdapat beragam wisata dengan pesona keindahan alam yang memukau, serta kaya akan warisan budaya. Hal tersebut menjadi salah satu alasan mengapa Indonesia menjadi tujuan destinasi wisata yang sangat populer di seluruh dunia. Sebuah destinasi wisata sukses karena berhasil menonjolkan identitas yang membuatnya berbeda sehingga lebih dikenal oleh wisatawan. 
 Untuk itu, kami menciptakan website “Tuban Scape” yang bertujuan untuk memberikan informasi dan pengalaman kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur. Website ini berfungsi sebagai platform yang luar biasa untuk mempromosikan potensi pariwisata dan budaya Kabupaten Tuban, Jawa Timur, kepada dunia.
@@ -28,9 +28,9 @@ Website “Tuban Scape” adalah sebuah platform portal wisata yang menawarkan b
 Audiens yang dituju pada website “Tuban Scape” adalah wisatawan lokal dan internasional yang tertarik untuk menjelajahi keindahan dan budaya di kota Tuban. Website ini bertujuan untuk memberikan informasi dan pengalaman kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur.Website ini diharapkan bisa meningkatkan minat dan kunjungan wisatawan ke kota Tuban, serta memberikan dampak positif bagi perekonomian dan pembangunan kota Tuban. Website ini akan menjadi sumber utama informasi wisata bagi wisatawan lokal dan internasional yang tertarik untuk menjelajahi keindahan dan budaya Tuban.
 
 
-2. Lampiran
+**2. Lampiran**
    
-   A. Use Case
+   **A. Use Case**
    
 ![file_2023-09-09_16 08 23](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/8ecc0037-5949-4f41-85b2-d186d88d1fda)
 
