@@ -1,5 +1,5 @@
-`**Spesifikasi Kebutuhan Perangkat Lunak
-Website "TubanScape"**`
+**Spesifikasi Kebutuhan Perangkat Lunak
+Website "TubanScape"**
 
 
 Disusun Oleh :
@@ -8,10 +8,10 @@ Disusun Oleh :
 3.   Khofifah Wulandari     	(22091397034)
 
    
-`**D4 Manajemen Informatika 
+**D4 Manajemen Informatika 
 Fakultas Vokasi 
 Universitas Negeri Surabaya
-2023**`
+2023**
 
 
 
