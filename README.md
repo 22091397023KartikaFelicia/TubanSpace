@@ -1,5 +1,6 @@
-**Spesifikasi Kebutuhan Perangkat Lunak
-Website "TubanScape"**
+**SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
+WEBSITE "TUBANSCAPE"**
+
 
 
 Disusun Oleh :
@@ -7,11 +8,13 @@ Disusun Oleh :
 2.   Kartika Felicia      	   (22091397023)
 3.   Khofifah Wulandari     	(22091397034)
 
+
    
-**D4 Manajemen Informatika 
-Fakultas Vokasi 
-Universitas Negeri Surabaya
+**D4 MANAJEMEN INFORMATIKA 
+FAKULTAS VOKASI 
+UNIVERSITAS NEGERI SURABAYA
 2023**
+
 
 
 
