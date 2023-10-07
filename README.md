@@ -1,15 +1,17 @@
-Spesifikasi Kebutuhan Perangkat Lunak
-Website "TubanScape"
+`**Spesifikasi Kebutuhan Perangkat Lunak
+Website "TubanScape"**`
+
 
 Disusun Oleh :
 1.   Verani Fajrin Triana     (22091397018)
 2.   Kartika Felicia      	   (22091397023)
 3.   Khofifah Wulandari     	(22091397034)
 
-D4 Manajemen Informatika 
+   
+`**D4 Manajemen Informatika 
 Fakultas Vokasi 
 Universitas Negeri Surabaya
-2023
+2023**`
 
 
 
@@ -27,11 +29,13 @@ Audiens yang dituju pada website “Tuban Scape” adalah wisatawan lokal dan in
 
 
 2. Lampiran
+   
    A. Use Case
    
 ![file_2023-09-09_16 08 23](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/8ecc0037-5949-4f41-85b2-d186d88d1fda)
 
-penjelasan: 
+Penjelasan: 
+
 Menggambarkan interaksi antara sistem website “Tuban Scape” dengan 2 aktor yaitu: admin dan user (pengunjung). aktor-aktor tersebut tentunya memiliki tugas yang berbeda. Interaksi antara admin dan pengunjung dengan website "Tuban Scape" menciptakan pengalaman yang lengkap, di mana admin bertanggung jawab untuk mengelola informasi dan mengelola konten tentang wisata di Tuban, sementara pengunjung dapat mengakses dan berinteraksi dengan informasi yang disediakan untuk merencanakan pengalaman wisata mereka di Kabupaten Tuban.
 
 
