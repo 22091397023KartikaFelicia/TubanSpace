@@ -40,8 +40,9 @@ Penjelasan:
 Menggambarkan interaksi antara sistem website “Tuban Scape” dengan 2 aktor yaitu: admin dan user (pengunjung). aktor-aktor tersebut tentunya memiliki tugas yang berbeda. Interaksi antara admin dan pengunjung dengan website "Tuban Scape" menciptakan pengalaman yang lengkap, di mana admin bertanggung jawab untuk mengelola informasi dan mengelola konten tentang wisata di Tuban, sementara pengunjung dapat mengakses dan berinteraksi dengan informasi yang disediakan untuk merencanakan pengalaman wisata mereka di Kabupaten Tuban.
 
 
-   B. Flowchart
+   **B. Flowchart**
 
+![image](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/df50dcfd-8e4c-4c51-8e82-cfcfb22921fd)
 
 
 
