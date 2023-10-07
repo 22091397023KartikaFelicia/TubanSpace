@@ -26,6 +26,10 @@ Website “Tuban Scape” adalah sebuah platform portal wisata yang menawarkan b
 Audiens yang dituju pada website “Tuban Scape” adalah wisatawan lokal dan internasional yang tertarik untuk menjelajahi keindahan dan budaya di kota Tuban. Website ini bertujuan untuk memberikan informasi dan pengalaman kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur.Website ini diharapkan bisa meningkatkan minat dan kunjungan wisatawan ke kota Tuban, serta memberikan dampak positif bagi perekonomian dan pembangunan kota Tuban. Website ini akan menjadi sumber utama informasi wisata bagi wisatawan lokal dan internasional yang tertarik untuk menjelajahi keindahan dan budaya Tuban.
 
 
+2. Lampiran 
+![file_2023-09-09_16 08 23](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/8ecc0037-5949-4f41-85b2-d186d88d1fda)
+
+
 
 
 
