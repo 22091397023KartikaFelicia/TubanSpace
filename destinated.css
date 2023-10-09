@@ -261,3 +261,11 @@ header{
     margin-left: 80vh;
     width: 110vh;
 }
+
+.footerimg{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
