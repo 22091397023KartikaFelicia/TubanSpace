@@ -85,3 +85,15 @@ header{
     margin-left: 80vh;
 
 }
+
+body{
+    /* nglirip */
+    background-image: url(../destinated-photo/nglirip.png);
+    background-size: 40%;
+    background-position-x: left;
+    background-position-y: 40vh;
+    background-repeat: no-repeat;
+
+    /* remen */
+    
+}
