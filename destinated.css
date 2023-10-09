@@ -64,7 +64,7 @@ header{
 .wisata {
     color: #A73121;
     font-family: sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -76,7 +76,7 @@ header{
 .isi-content {
     color: #A73121;
     font-family: sans-serif;
-    font-size: 15px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -86,14 +86,27 @@ header{
 
 }
 
-body{
-    /* nglirip */
-    background-image: url(../destinated-photo/nglirip.png);
-    background-size: 40%;
-    background-position-x: left;
-    background-position-y: 40vh;
-    background-repeat: no-repeat;
-
-    /* remen */
-    
+.nglirip{
+    position: absolute;
+    margin-top: 10vh;
+}
+.remen{
+    position: absolute;
+    margin-top: 30vh;
+}
+.cemara{
+    position: absolute;
+    margin-top: 50vh;
+}
+.ngerong{
+    position: absolute;
+    margin-top: 70vh;
+}
+.akbar{
+    position: absolute;
+    margin-top: 90vh;
+}
+.bonang{
+    position: absolute;
+    margin-top: 110vh;
 }
