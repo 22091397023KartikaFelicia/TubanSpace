@@ -86,8 +86,22 @@ header{
 
 }
 
-.nglirip{
+.ngliripimage{
     position: absolute;
+}
+.ngliripkonten{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.isi-contentnglirip{
+    position: absolute;
+    color: #A73121;
+    font-family: sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    margin-left: 80vh;
     margin-top: 10vh;
 }
 .remen{
@@ -108,5 +122,142 @@ header{
 }
 .bonang{
     position: absolute;
-    margin-top: 110vh;
+    margin-top: 105vh;
+}
+.ibrahim{
+    position: absolute;
+    margin-top: 130vh;
+}
+.klenteng{
+    position: absolute;
+    margin-top: 150vh;
+}
+.krawak{
+    position: absolute;
+    margin-top: 190vh;
+}
+
+.Konten{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.text{
+    margin-top: -37vh;
+    margin-left: 80vh;
+}
+
+.Konten2{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text2{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten3{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text3{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten4{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text4{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten5{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text5{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten6{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text6{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten7{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text7{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten8{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text8{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
+}
+
+.Konten9{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.text9{
+    margin-top: -37vh;
+    margin-left: 80vh;
+    width: 110vh;
 }
