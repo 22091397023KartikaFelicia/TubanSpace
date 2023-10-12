@@ -140,3 +140,32 @@ section {
     margin-right: -25vh;
 }
 
+.berita{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.berita .box-containt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.berita .box-containt .boc{
+    text-align: center;
+}
+
+.berita .box-containt .boc img{
+    width: 800px;
+    margin-inline: -23vh;
+    margin-top: -15vh;
+    margin-left: 5vh;
+}
+
+.famous .box-famous .boc h3{
+    margin-top: -2vh;
+    margin-right: -25vh;
+    text-align:center;
+}
+
