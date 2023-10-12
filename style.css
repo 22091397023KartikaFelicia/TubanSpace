@@ -8,29 +8,68 @@
 }
 
 header{
-    height: 100vh;
+    margin-top: 5vh;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 70px;
     background-image: url(background.png);
-    background-position: bottom;
-    background-size: cover;
+    background-size: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     align-items: flex-end;
 }
 .header-content{
-    margin-bottom: 150px;
+    margin-top: 30vh;
+    margin-bottom: 120px;
     text-align: center;
+    
 }
 .line{
     color: whitesmoke;
-    margin-top: 35px;
-    margin-bottom: 15vh;
+    margin-top: 10px;
+    font-size: 10px;  
 
 }
 .header-content h1{
-    font-size: 7vmin;
+    font-size: 5vmin;
     margin-top: 1px;
     margin-bottom: 2px;
+}
+.searchbar form{
+margin-top: ;
+width: 841px;
+padding: 11px 12px 12px 12px;
+gap: 10px;
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+.searchbar form input{
+    border: 0;
+    outline: 0;
+    width: 50%;
+    font-size: 16px;
+    padding-left: 10px;
+    margin-right: 500px; 
+}
+.searchbar form .btn{
+    color: #FFF;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; 
+letter-spacing: 0.3px;
+    display: flex;
+width: 148px;
+padding: 12px 18px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 6px;
+background: var(--Blue-1, #2F80ED);
 }
 
 body{
