@@ -13,6 +13,7 @@ header{
     margin-left: 80px;
     margin-bottom: 70px;
     background-image: url(background.png);
+    background-image: no-repeat;
     background-size: 100%;
     display: flex;
     align-items: center;
@@ -20,16 +21,15 @@ header{
     align-items: flex-end;
 }
 .header-content{
-    margin-top: 30vh;
-    margin-bottom: 120px;
+    margin-top: 30vh;  
     text-align: center;
     
 }
 .line{
     color: whitesmoke;
     margin-top: 10px;
-    font-size: 10px;  
-
+    font-size: 10px;
+    
 }
 .header-content h1{
     font-size: 5vmin;
@@ -37,7 +37,6 @@ header{
     margin-bottom: 2px;
 }
 .searchbar form{
-margin-top: ;
 width: 841px;
 padding: 11px 12px 12px 12px;
 gap: 10px;
@@ -46,7 +45,9 @@ gap: 10px;
     background: #fff;
     border-radius: 5px;
     padding: 10px;
+
 }
+
 .searchbar form input{
     border: 0;
     outline: 0;
@@ -79,9 +80,6 @@ body{
     background-position: center;
 }
 
-li{
-    list-style: none;
-}
 
 a{
     text-decoration: none;
@@ -94,7 +92,6 @@ a:hover {
 }
 
 /* Header */
-
 
 .navbar {
     width: 100%;
@@ -115,6 +112,56 @@ a:hover {
     display: flex;
     gap: 8rem;
     margin-right: 50vh;
+}
+/* Enjoy your dream vacation */
+section {
+    width: 80%;
+    margin: 80px auto;
+}
+.title h1{
+    text-align: left;
+    margin-left: -5vh;
+    font-size: 4vmin;
+    color: black;
+}
+.title h2{
+    margin-top: 10px;
+    text-align: left;
+    margin-left: -5vh;
+    font-size: 10px;
+
+}
+.row {
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    background: white ;
+    margin: 65px;
+    text-align: center;
+   
+
+
+}
+.row .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vacation .row {
+    margin-top: 20px;
+}
+h4 {
+    margin-top: 3vmin;
+    color: #000;
+    margin: 20px auto;
+}
+p {
+    color: black;
+    padding: 0px 40px;
+}
+.vacation .ctn {
+    margin-top: 30px;
 }
 
 
