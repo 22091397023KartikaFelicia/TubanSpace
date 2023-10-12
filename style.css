@@ -8,12 +8,11 @@
 }
 
 header{
-    margin-top: 5vh;
     margin-right: 80px;
     margin-left: 80px;
     margin-bottom: 70px;
-    background-image: url(background.png);
     background-image: no-repeat;
+    background-image: url(background.png);
     background-size: 100%;
     display: flex;
     align-items: center;
@@ -27,7 +26,7 @@ header{
 }
 .line{
     color: whitesmoke;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 10px;
     
 }
@@ -37,13 +36,11 @@ header{
     margin-bottom: 2px;
 }
 .searchbar form{
-width: 841px;
-padding: 11px 12px 12px 12px;
-gap: 10px;
+    margin-top: 6vh;
     display: flex;
     align-items: center;
     background: #fff;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 10px;
 
 }
@@ -51,7 +48,6 @@ gap: 10px;
 .searchbar form input{
     border: 0;
     outline: 0;
-    width: 50%;
     font-size: 16px;
     padding-left: 10px;
     margin-right: 500px; 
@@ -73,14 +69,6 @@ border-radius: 6px;
 background: var(--Blue-1, #2F80ED);
 }
 
-body{
-    height: 100vh;
-    background-color: #fff;
-    background-size: cover;
-    background-position: center;
-}
-
-
 a{
     text-decoration: none;
     color: #000;
@@ -91,7 +79,7 @@ a:hover {
     color: burlywood;
 }
 
-/* Header */
+/* Navbar */
 
 .navbar {
     width: 100%;
@@ -156,6 +144,16 @@ section {
     margin-left: -100px;
 }
 .abc h4{
+    position: relative;
+    margin-top: -20px;
+    text-align: center;
+    margin-right: 20vh;
+}
+.img3 img{
+    width: 400px;
+    margin-left: -100px;   
+}
+img3 h4{
     position: relative;
     margin-top: -20px;
     text-align: center;
