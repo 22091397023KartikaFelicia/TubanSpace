@@ -133,14 +133,12 @@ section {
 }
 .row {
     display: flex;
-    float: left;
     justify-content: space-between;
-    background: white ;
-    margin: 65px;
     text-align: center;
-   
-
-
+}
+.col img{
+    width: 400px;
+    margin-left:-15vh;
 }
 .row .col {
     display: flex;
@@ -148,6 +146,10 @@ section {
     align-items: center;
 }
 
+.abc img{
+    width: 400px;
+    justify-content: left;
+}
 .vacation .row {
     margin-top: 20px;
 }
