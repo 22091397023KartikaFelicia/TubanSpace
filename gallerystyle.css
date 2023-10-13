@@ -33,3 +33,9 @@ a:hover {
     font-weight: bold;
     color: #000; 
 }
+
+.navbar .links {
+    display: flex;
+    gap: 8rem;
+    margin-right: 50vh;
+}
