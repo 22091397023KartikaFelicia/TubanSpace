@@ -56,3 +56,9 @@ a:hover {
     height: 300px;
     margin: 10px; 
 }
+
+.gallery .box-gallery img.landscape {
+    flex-basis: 50%;
+    object-fit: cover;
+    align-self: center;  
+}
