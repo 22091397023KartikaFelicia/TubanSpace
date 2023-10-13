@@ -62,3 +62,9 @@ a:hover {
     object-fit: cover;
     align-self: center;  
 }
+
+.gallery .box-gallery img.potrait {
+    align-self: stretch; 
+    object-fit: cover; 
+}
+
