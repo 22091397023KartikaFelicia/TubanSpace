@@ -1,4 +1,6 @@
- // Select all elements with the "i" tag and store them in a NodeList called "stars"
+// save file js dengan nama script
+
+// Select all elements with the "i" tag and store them in a NodeList called "stars"
  const stars = document.querySelectorAll(".stars i");
 
  // Loop through the "stars" NodeList
