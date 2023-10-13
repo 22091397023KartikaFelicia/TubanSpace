@@ -105,3 +105,8 @@ iframe {
     float: right;
 }
 
+.paragraph {
+    font-size: 16px; 
+    color: #333; 
+    margin-top: 10px;
+}
