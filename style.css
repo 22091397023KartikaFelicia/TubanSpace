@@ -34,7 +34,7 @@ header{
     margin-bottom: 2px;
 }
 .searchbar form{
-    margin-top: 6vh;
+    margin-bottom: 4vh;
     display: flex;
     align-items: center;
     background: #fff;
@@ -166,5 +166,19 @@ section {
 .boc p{
     margin-left: 20vh;
     
+}
+
+.hotel .container-hotel .box-hotel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -10vh;
+}
+
+.hotel .box-hotel .bt img{
+    width: 240px;
+    margin-bottom: 2vh;
+    margin-left: -5vh;
 }
 
