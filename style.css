@@ -75,7 +75,7 @@ a:hover {
 /* Navbar */
 
 .navbar {
-    width: 100%;
+    /* width: 100%; */
     height: 80px;
     max-width: 1200px;
     margin: 0 auto;
@@ -149,23 +149,22 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
+   
 }
-
-.berita .box-containt .boc{
-    text-align: center;
-}
-
-.berita .box-containt .boc img{
-    width: 800px;
+.berita .box-containt img{
+    width: 500px;
     margin-inline: -23vh;
     margin-top: -15vh;
     margin-left: 5vh;
 }
 
-.famous .box-famous .boc h3{
-    margin-top: -2vh;
-    margin-right: -25vh;
-    text-align:center;
+.boc h4{
+    margin-left: 20vh;
+    margin-top: -7vh;
+}
+
+.boc p{
+    margin-left: 20vh;
+    
 }
 
