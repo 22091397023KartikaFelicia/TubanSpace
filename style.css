@@ -182,3 +182,24 @@ section {
     margin-left: -5vh;
 }
 
+footer {
+    background-color: #F1EFEF;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer-content p{
+    color: #2F80ED;
+}
+
+.col-md-4{
+    margin-inline: 10vh;
+}
+
+  
