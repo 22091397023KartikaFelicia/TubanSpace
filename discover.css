@@ -44,3 +44,25 @@
     border: 1px solid;
     border-color: var(--gray-5);
 }
+
+.search-results .rectangle-2 {
+    position: absolute;
+    width: 52px;
+    height: 48px;
+    top: 0;
+    left: 102px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: var(--gray-5);
+}
+
+.search-results .rectangle-3 {
+    position: absolute;
+    width: 52px;
+    height: 48px;
+    top: 0;
+    left: 153px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: var(--gray-5);
+}
