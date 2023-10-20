@@ -90,3 +90,27 @@
     border: 1px solid;
     border-color: var(--gray-5);
 }
+
+.search-results .star-s-fill {
+    left: 24px;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 15px;
+}
+
+.search-results .img {
+    left: 75px;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 15px;
+}
+
+.search-results .star-s-fill-2 {
+    left: 126px;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 15px;
+}
