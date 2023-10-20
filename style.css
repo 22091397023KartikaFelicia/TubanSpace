@@ -288,7 +288,7 @@ ul{
 .Hero-Content p{
     font-size: 24px;
     line-height: 1.5;
-    margin-bottom: 40px;
+    margin-bottom: 35px;
     color: #666;
 }
 .Hero-Content button{
@@ -303,7 +303,7 @@ ul{
     transition: 0.3s ease;
 }
 .Hero-Content button:hover{
-    background-color: #ff6347;
+    background-color: #2F80ED;
     transform: scale(1.1);
 }
 .Hero-Image{
@@ -338,6 +338,57 @@ ul{
     }
 } 
 
- 
+.wrapper{
+    margin-top: 10%;
+}
 
+.wrapper h1{
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+
+.team .team-member{
+    background: #C2D9FF;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+    color: #666;
+    position: relative;
+}
   
+.team .team-member h3{
+    color: aliceblue;
+    font-size: 26px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.team .team-member p.role{
+    color: #000;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin: 12px 0;
+}
+
+.team .team-member .team-img{
+    width: 100px;
+    border-radius: 10px;
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.team .team-member .team-img img{
+    width: 100px;
+    height: auto;
+}
