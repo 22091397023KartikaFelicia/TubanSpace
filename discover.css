@@ -420,3 +420,226 @@
     left: 0;
 }
 
+.search-results .text-wrapper-13 {
+    top: 23px;
+    left: 844px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.search-results .text-wrapper-14 {
+    position: absolute;
+    top: 22px;
+    left: 1060px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.search-results .text-wrapper-15 {
+    position: absolute;
+    top: 18px;
+    left: 1255px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.search-results .rectangle-13 {
+    position: absolute;
+    width: 1030px;
+    height: 64px;
+    top: 168px;
+    left: 205px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 37px #00000026;
+}
+
+.search-results .frame-2 {
+    display: flex;
+    width: 843px;
+    align-items: center;
+    gap: 10px;
+    padding: 11px 12px 12px;
+    position: absolute;
+    top: 178px;
+    left: 217px;
+    background-color: var(--gray-6);
+    border-radius: 4px;
+}
+
+.search-results .search {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+
+.search-results .text-wrapper-16 {
+    position: relative;
+    width: 180px;
+    height: 18px;
+    font-family: "Calibri-Regular", Helvetica;
+    color: #1818187d;
+    font-size: 15px;
+    white-space: nowrap;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.search-results .div-wrapper {
+    display: flex;
+    width: 148px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 18px;
+    position: absolute;
+    top: 178px;
+    left: 1075px;
+    background-color: var(--blue-1);
+    border-radius: 6px;
+}
+
+.search-results .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.search-results .group {
+    position: absolute;
+    width: 167px;
+    height: 24px;
+    top: 28px;
+    left: 62px;
+}
+
+.search-results .text-wrapper-18 {
+    position: absolute;
+    width: 135px;
+    top: 1px;
+    left: 30px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.search-results .icon-slack-logo {
+    position: absolute;
+    width: 25px;
+    height: 24px;
+    top: 0;
+    left: 0;
+}
+
+.search-results .overlap-4 {
+    position: absolute;
+    width: 915px;
+    height: 240px;
+    top: 2010px;
+    left: 425px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-5);
+}
+
+.search-results .image {
+    height: 198px;
+    top: 23px;
+    left: 14px;
+    position: absolute;
+    width: 285px;
+    object-fit: cover;
+}
+
+.search-results .overlap-5 {
+    position: absolute;
+    width: 451px;
+    height: 193px;
+    top: 23px;
+    left: 329px;
+}
+
+.search-results .group-2 {
+    position: absolute;
+    width: 216px;
+    height: 153px;
+    top: 40px;
+    left: 0;
+}
+
+.search-results .text-wrapper-19 {
+    position: absolute;
+    height: 20px;
+    top: 0;
+    left: 94px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+    white-space: nowrap;
+}
+
+.search-results .frame-3 {
+    top: 113px;
+    left: 0;
+    background-color: var(--blue-1);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 18px;
+    position: absolute;
+    border-radius: 6px;
+}
+
+.search-results .group-3 {
+    position: absolute;
+    width: 82px;
+    height: 20px;
+    top: 0;
+    left: 0;
+}
+
+.search-results .text-wrapper-20 {
+    position: absolute;
+    width: 451px;
+    top: 69px;
+    left: 0;
+    font-family: "Calibri-Regular", Helvetica;
+    font-weight: 400;
+    color: #181818d1;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
