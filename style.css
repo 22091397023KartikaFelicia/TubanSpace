@@ -162,9 +162,7 @@ section {
 
 .boc h4{
     margin-top: 2vh;
-    margin-left: 16vh;
-    
-}
+    margin-left: 16vh;}
     
 
 .boc p{
@@ -264,10 +262,81 @@ ul{
 }
 .footer-col .social-links a:hover{
 	color: #24262b;
-	background-color: #ffffff;
+	background-color: #ffffff;}
+
+.Hero{
+    overflow: hidden;
+    
+}
+.Container{
+    width: 100%;
+    margin: 65px auto;
+}
+ .Hero-Content{
+    flex: 1;
+    width: 500px;
+    margin: 0px 25px;
+    float: left;
+    animation: fadeInUp 2s ease;
 }
 
-
+.Hero-Content h2{
+    font-size: 38px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.Hero-Content p{
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    color: #666;
+}
+.Hero-Content button{
+    display: inline-block;
+    background-color: #2F80ED;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+.Hero-Content button:hover{
+    background-color: #ff6347;
+    transform: scale(1.1);
+}
+.Hero-Image{
+    float: right;
+    width: fit-content; 
+    animation: fadeInRight 2s ease;  
+}
+.Hero-Image img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-right: 5px;
+}  
+@keyframes fadeInUp{
+    0%{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+} 
+@keyframes fadeInRight{
+    0%{
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px);
+    }
+} 
 
  
 
