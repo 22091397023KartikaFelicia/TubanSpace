@@ -130,3 +130,32 @@
     height: 18px;
     top: 15px;
 }
+
+.search-results .text-wrapper {
+    left: 62px;
+    position: absolute;
+    width: 26px;
+    height: 19px;
+    top: 14px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-1);
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+}
+
+.search-results .text-wrapper-2 {
+    left: 113px;
+    position: absolute;
+    width: 26px;
+    height: 19px;
+    top: 14px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-1);
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+}
+
