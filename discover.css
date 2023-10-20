@@ -314,3 +314,67 @@
     border-color: var(--gray-4);
 }
 
+.search-results .rectangle-11 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 242px;
+    left: 17px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-4);
+}
+
+.search-results .text-wrapper-7 {
+    position: absolute;
+    width: 63px;
+    top: 74px;
+    left: 60px;
+    font-family: "Calibri-Regular", Helvetica;
+    font-weight: 400;
+    color: #4f4f4f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.search-results .text-wrapper-8 {
+    position: absolute;
+    width: 63px;
+    top: 106px;
+    left: 60px;
+    font-family: "Calibri-Regular", Helvetica;
+    font-weight: 400;
+    color: #4f4f4f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.search-results .text-wrapper-9 {
+    position: absolute;
+    width: 63px;
+    top: 174px;
+    left: 62px;
+    font-family: "Calibri-Regular", Helvetica;
+    font-weight: 400;
+    color: #4f4f4f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.search-results .text-wrapper-10 {
+    position: absolute;
+    width: 118px;
+    top: 241px;
+    left: 59px;
+    font-family: "Calibri-Regular", Helvetica;
+    font-weight: 400;
+    color: #4f4f4f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
