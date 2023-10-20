@@ -266,3 +266,51 @@
     border-color: var(--gray-4);
 }
 
+.search-results .rectangle-7 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 106px;
+    left: 17px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-4);
+}
+
+.search-results .rectangle-8 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 140px;
+    left: 17px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-4);
+}
+
+.search-results .rectangle-9 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 174px;
+    left: 17px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-4);
+}
+
+.search-results .rectangle-10 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 208px;
+    left: 17px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-4);
+}
+
