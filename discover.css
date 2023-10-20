@@ -378,3 +378,45 @@
     line-height: normal;
 }
 
+.search-results .text-wrapper-11 {
+    width: 63px;
+    top: 141px;
+    left: 60px;
+    font-family: "Calibri-Regular", Helvetica;
+    color: #4f4f4f;
+    font-size: 15px;
+    letter-spacing: 0;
+    position: absolute;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.search-results .text-wrapper-12 {
+    position: absolute;
+    width: 63px;
+    top: 208px;
+    left: 62px;
+    font-family: "Calibri-Regular", Helvetica;
+    font-weight: 400;
+    color: #4f4f4f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.search-results .overlap-3 {
+    position: absolute;
+    width: 1440px;
+    height: 232px;
+    top: 0;
+    left: 0;
+}
+
+.search-results .rectangle-12 {
+    position: absolute;
+    width: 1440px;
+    height: 200px;
+    top: 0;
+    left: 0;
+}
+
