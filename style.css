@@ -69,7 +69,8 @@ a{
 }
 
 a:hover {
-    color: burlywood;
+    color:#2F80ED;
+    transition: all 0.3s ease;
 }
 
 /* Navbar */
@@ -193,8 +194,11 @@ footer{
     justify-content: center;
     flex-direction: column;
 }
+.footer-content h2{
+    margin-bottom: 15px;
+}
 .footer-content p{
-    color: #2F80ED;
+    color: #2F80ED; 
 }
 .foot-container{
 	margin:auto;
@@ -213,7 +217,7 @@ ul{
 .footer-col h4{
 	font-size: 18px;
 	text-transform: capitalize;
-	margin-top: 30px;
+	margin-top: 20vh;
 	font-weight: 500;
 	position: relative;
 }
@@ -222,7 +226,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -7px;
-	background-color: #e91e63;
+	background-color: #2F80ED;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -247,8 +251,8 @@ ul{
 	display: inline-block;
 	height: 40px;
 	width: 40px;
-	background-color:black;
-	margin:0 10px 10px 0;
+	background-color:grey;
+	margin-top: 15px;
 	text-align: center;
 	line-height: 40px;
 	border-radius: 50%;
@@ -260,18 +264,8 @@ ul{
 	background-color: #ffffff;
 }
 
-/responsive/
-@media(max-width: 767px){
-  .footer-col{
-    width: 50%;
-    margin-bottom: 30px;
-}
-}
-@media(max-width: 574px){
-  .footer-col{
-    width: 100%;
-}
-}
+
+
  
 
   
