@@ -130,17 +130,19 @@ section {
 }
 
 .famous .box-famous .box img{
-    width: 400px;
-    margin-inline: -23vh;
-    margin-top: -15vh;
-    margin-left: 5vh;
+    width: 240px;
+    margin-top: -10vh;
+    margin-bottom: 4vh;
+    margin-inline: -14vh;
+    margin-left: 16vh;  
 }
 
-.famous .box-famous .box h3{
+.box h3{
     margin-top: -3vh;
-    margin-right: -25vh;
+    margin-right: -28vh;
 }
 
+/* berita */
 .berita{
     width: 100%;
     display: flex;
@@ -149,23 +151,24 @@ section {
 .berita .box-containt{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
    
 }
-.berita .box-containt img{
-    width: 500px;
-    margin-inline: -23vh;
-    margin-top: -15vh;
-    margin-left: 5vh;
+.box-containt img{
+    width: 250px;
+    margin-top: -10vh;
+    margin-left: 16vh; 
 }
 
 .boc h4{
-    margin-left: 20vh;
-    margin-top: -7vh;
+    margin-top: 2vh;
+    margin-left: 16vh;
+    
 }
+    
 
 .boc p{
-    margin-left: 20vh;
+    margin-left: 16vh;
     
 }
 
