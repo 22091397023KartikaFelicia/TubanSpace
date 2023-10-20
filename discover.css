@@ -186,6 +186,7 @@
     letter-spacing: 0.32px;
     line-height: normal;
 }
+
 .search-results .text-wrapper-5 {
     left: 11px;
     position: absolute;
@@ -226,5 +227,42 @@
     border-radius: 6px 6px 0px 0px;
     border: 1px solid;
     border-color: var(--gray-5);
+}
+
+.search-results .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #181818;
+    font-size: 16px;
+    letter-spacing: 0.16px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.search-results .overlap-2 {
+    position: absolute;
+    width: 295px;
+    height: 287px;
+    top: 987px;
+    left: 100px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: var(--gray-5);
+}
+
+.search-results .rectangle-6 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 72px;
+    left: 17px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: var(--gray-4);
 }
 
