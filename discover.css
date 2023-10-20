@@ -66,3 +66,27 @@
     border: 1px solid;
     border-color: var(--gray-5);
 }
+
+.search-results .rectangle-4 {
+    position: absolute;
+    width: 52px;
+    height: 48px;
+    top: 0;
+    left: 204px;
+    background-color: #ffffff;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid;
+    border-color: var(--gray-5);
+}
+
+.search-results .rectangle-5 {
+    position: absolute;
+    width: 52px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid;
+    border-color: var(--gray-5);
+}
