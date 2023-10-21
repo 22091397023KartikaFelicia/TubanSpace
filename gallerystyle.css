@@ -272,9 +272,9 @@ hr {
     height: 40px;
     border-radius: 50%;
     object-fit: cover;
-
-    /* Add some margin to the right */
-    margin-right: 10px;
+    margin-right: 10px; 
+    margin-left: 10px; 
+    margin-top: 10px;
 }
 
 .customer-review-list .name {
