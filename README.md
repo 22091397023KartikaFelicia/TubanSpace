@@ -34,6 +34,11 @@ UNIVERSITAS NEGERI SURABAYA
          4. Wisatawan dapat memilih lokasi wisata yang paling dekat atau jauh dari lokasi mereka
          5. Sistem dapat merekomendasikan wisata pada wisatawan berdasrkan hasil pencarian mereka
 
+   1.3. Audiens Yang Dituju
+
+            Audiens yang dituju pada website “Tuban Scape” adalah wisatawan lokal dan internasional yang tertarik untuk              menjelajahi keindahan dan budaya di kota Tuban. Website ini bertujuan untuk memberikan informasi dan pengalaman              kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur. Website ini diharapkan bisa            meningkatkan minat dan kunjungan wisatawan ke kota Tuban, serta memberikan dampak positif bagi perekonomian dan              pembangunan kota Tuban. Website ini akan menjadi sumber utama informasi wisata bagi wisatawan lokal dan                      internasional yang tertarik untuk menjelajahi keindahan dan budaya Tuban.
+
+   1.4.
 
 **2. LAMPIRAN**
    
