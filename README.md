@@ -36,8 +36,6 @@ UNIVERSITAS NEGERI SURABAYA
 
 
 
-
-
 **2. LAMPIRAN**
    
    **A. Use Case**
