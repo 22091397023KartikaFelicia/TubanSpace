@@ -1,14 +1,9 @@
-**SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
-WEBSITE "TUBANSCAPE"**
-
-
+**SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK WEBSITE "TUBANSCAPE"**
 
 Disusun Oleh :
 1.   Verani Fajrin Triana     (22091397018)
-2.   Kartika Felicia      	   (22091397023)
+2.   Kartika Felicia      	  (22091397023)
 3.   Khofifah Wulandari     	(22091397034)
-
-
    
 **D4 MANAJEMEN INFORMATIKA 
 FAKULTAS VOKASI 
@@ -38,7 +33,14 @@ UNIVERSITAS NEGERI SURABAYA
 
             Audiens yang dituju pada website “Tuban Scape” adalah wisatawan lokal dan internasional yang tertarik untuk              menjelajahi keindahan dan budaya di kota Tuban. Website ini bertujuan untuk memberikan informasi dan pengalaman              kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur. Website ini diharapkan bisa            meningkatkan minat dan kunjungan wisatawan ke kota Tuban, serta memberikan dampak positif bagi perekonomian dan              pembangunan kota Tuban. Website ini akan menjadi sumber utama informasi wisata bagi wisatawan lokal dan                      internasional yang tertarik untuk menjelajahi keindahan dan budaya Tuban.
 
-   1.4.
+   1.4. Lingkup Produk
+
+            Ruang lingkup dari sebuah website Tuban Scape dapat mencakup berbagai aspek yang terkait dengan pariwisata di            wilayah tersebut. Berikut adalah beberapa komponen yang bisa termasuk dalam ruang lingkup website Tuban Scape :
+         1. Wisata
+         2. Hiburan
+         3. Lokasi
+         4. Ulasan
+
 
 **2. LAMPIRAN**
    
