@@ -35,7 +35,6 @@ UNIVERSITAS NEGERI SURABAYA
          5. Sistem dapat merekomendasikan wisata pada wisatawan berdasrkan hasil pencarian mereka
 
 
-
 **2. LAMPIRAN**
    
    **A. Use Case**
