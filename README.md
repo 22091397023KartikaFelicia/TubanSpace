@@ -86,7 +86,10 @@ Samuel Hartono, and Handinoto. ALUN-ALUN DAN REVITALISASI IDENTITAS KOTA TUBAN, 
 
 3. PERSYARATAN ANTARMUKA
 
-   3.1. 
+   3.1. ANTARMUKA PENGGUNA
+   3.2. ANTARMUKA PERANGKAT KERAS
+         A. HOME
+            ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Homepage.png) 
 
 
 
