@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Discoverrrrr.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <title>Discover</title>
+</head>
+<body>
+<!-- navbar -->
+<nav class="navbar">
+    <h1 class="logo"><img src="photo/Logo (2).png">   TUBANSCAPE</h1>
+    <ul class="links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="discover.html">Discover</a></li>
+        <li><a href="AboutUs.html">About</a></li>
+    </ul>
+</nav>
+
+ <!-- Searchbar -->
+<section class="Searchbar">
+    <div class="input-box">
+        <i class="uil uil-search"></i>
+        <input type="text" placeholder="Search here...">
+        <button class="button"> Search </button>
+    </div>
+
+<script>
+    const button = document.querySelector(".button");
+
+    button.addEventListener("mousedown", () => button.classList.add("Clicked"));
+    button.addEventListener("mouseup", () => button.classList.remove("Clicked"));
+</script>
+</section>
+
+<!-- Recomended -->
+<section class="Recomended">
+    <div>
+        <p class="Text1">Sort By</p>
+        <p class="Text2">Recommended</p>
+    </div> 
+    <img src="photo/arrow-down 1.png">
+</section>
+
+<!-- Content -->
+<section class="Content1">
+<div class="Wrapper">
+    <div class="text-box">
+    <img class="Photo" src="photo/Rectangle 62.png">
+        <h2>Mata Air Sungai Krawak</h2>
+        <img src="photo/Star.png"><img src="photo/Star.png"><img src="photo/Star.png"><img src="photo/Star.png"><img src="photo/Half Star.png"> <span class="Review">4.5 (1200 Reviews)</span>
+        <p>Mata Air Krawak adalah objek wisata alam yang berupa sumber mata air yang keluar dari celah celah bebatuan
+            sungai, krawak berada di tengah tengah hutan jati Desa Guwoterus Kecamatan Montong, Tuban. Krawak
+            merupakan sumber Mata air dari objek wisata alam lain yaitu Air Terjun Nglirip.
+        </p>
+        <a href="#" class="btn"> See Availability</a>
+    </div>
+</div>
+</section>
+</body>
+</html>
