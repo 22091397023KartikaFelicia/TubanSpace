@@ -25,4 +25,11 @@ const button = document.querySelector(".button");
     button.addEventListener("mousedown", () => button.classList.add("Clicked"));
     button.addEventListener("mouseup", () => button.classList.remove("Clicked"));
 
+// CheckBox
+const items = document.querySelectorAll(".item");
 
+items.forEach(item => {
+    item.addEventListener("click", () => {
+        item.classList.toggle("checked");
+    })
+})

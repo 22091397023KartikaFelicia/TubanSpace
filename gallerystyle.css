@@ -5,6 +5,7 @@
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
     list-style: none;
+    scroll-behavior: smooth;
 }
 
 @media (max-width: 1366px), (max-width: 768px), (max-width: 320px){
@@ -16,62 +17,18 @@
     }
 }
 
-/* Link Styles */
-a {
-    text-decoration: none;
-    color: #000;
-    font-size: 1rem;
-}
-
-a:hover {
-    color: #2F80ED;
-}
-
-/* Navbar */
-.navbar {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 20px;
-    margin-top: 20px;
-}
-
-.navbar .logo {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #000;
-}
-
-.navbar .links {
-    display: flex;
-    gap: 8rem;
-}
-
-@media (max-width: 1366px), (max-width: 768px), (max-width: 320px){
-    .navbar .links {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-end;
-        gap: 10px;
-    }
-}
-
 /* Gallery */
 .gallery {
+    margin-left: 17vh;
     width: 100%;
-    height: 100vh;
     display: flex;
     align-items: center;
-    margin-top: -100px;
-    margin-bottom: -155px;
+    margin-top: 10vh;
 }
 
 .gallery .box-gallery img {
-    width: 285px;
-    height: 285px;
+    width: 250px;
+    height: 250px;
     margin: 7px;
 }
 
@@ -98,24 +55,16 @@ a:hover {
     margin-left: 25px;
     margin-right: 25px;
 }
-
-header {
-    font-size: 24px;
-    text-align: left;
-    color: black;
-    font-weight: bold;
-    margin-bottom: 15px;
-}
-
 /* Rating */
 .stars i {
-    margin: 0 5px;
     padding: 0;
     color: #b4b4b4;
     font-size: 20px;
     cursor: pointer;
     transition: color 0.2s ease;
     margin-top: 10px;
+    margin-left: 5vh;
+    margin-inline: 0;
 }
 
 .stars i.active {
@@ -130,7 +79,6 @@ header {
     flex-direction: column;
     align-items: flex-end;
     text-align: right;
-    margin-top: -225px;
     float: right;
     margin-right: 5px;
 }
@@ -156,7 +104,7 @@ header {
     text-align: justify;
     max-width: 600px;
     margin-top: 10px;
-    margin-left: 0;
+    margin-left: 5vh;
 }
 
 /* Garis Pemisah */
