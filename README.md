@@ -95,6 +95,7 @@ Antarmuka Perangkat Keras yang digunakan oleh Tuban Scape adalah Smartphone atau
    3.3. ANTARMUKA PERANGKAT LUNAK ||
 A. Home |
    ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Homepage.png) 
+
 B. Discover |
    - Tampilan Rekomendasi Wisata
       ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Search%20Results.png)
