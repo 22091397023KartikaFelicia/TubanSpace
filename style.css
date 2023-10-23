@@ -6,8 +6,11 @@
     text-decoration: none;
     list-style: none;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 header{
+    animation: fadeInUp 2s ease;
     margin-right: 80px;
     margin-left: 80px;
     background-image: no-repeat;
