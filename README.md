@@ -75,16 +75,18 @@ Samuel Hartono, and Handinoto. ALUN-ALUN DAN REVITALISASI IDENTITAS KOTA TUBAN, 
          4. Fungsi produk berisi fungsi utama dari website.
          5. Kebutuhan non-fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat              lunak.
 
-    2.7. ASUMSI DAN KETERGANTUNGAN
+    2.7. ASUMSI DAN KETERGANTUNGAN ||
     Asumsi :
-      1. Admin memiliki ototritas penuh dalam pendataan wisata
-      2. Admin harus mengetahui riset wisata dan deskripsinya.
-      3. Website ini merupakan website yang bisa di akses dimana saja dan sistem operasi device manapun.
+         1. Admin memiliki ototritas penuh dalam pendataan wisata
+         2. Admin harus mengetahui riset wisata dan deskripsinya.
+         3. Website ini merupakan website yang bisa di akses dimana saja dan sistem operasi device manapun.
    Ketergantungan :
-      1. Ketergantungan pada internet yang membuat website ini dapat diakses jika terdapat koneksi internet saja.
-      2. Ketergantungan pada deskripsi tempat wisata pada website, seperti lokasi, harga tiket dan jam operasional
+         1. Ketergantungan pada internet yang membuat website ini dapat diakses jika terdapat koneksi internet saja.
+         2. Ketergantungan pada deskripsi tempat wisata pada website, seperti lokasi, harga tiket dan jam operasional
 
+3. PERSYARATAN ANTARMUKA
 
+   3.1. 
 
 
 
