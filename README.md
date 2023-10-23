@@ -47,6 +47,27 @@ UNIVERSITAS NEGERI SURABAYA
                Tuban Scape memiliki nilai unik yang membedakannya dari banyak website sejenis. Dengan fokus eksklusif pada             destinasi wisata di Tuban, kami memberikan pengalaman yang sangat spesifik dan mendalam bagi pengguna yang ingin             menjelajahi keindahan dan pesona kota ini. Keunikan ini adalah salah satu aspek yang membedakan Tuban Scape dari             website lainnya. |
                 Selain itu, Tuban Scape memberikan tampilan website yang segar dan menarik, sehingga pengguna tidak hanya              mendapatkan informasi yang berguna, tetapi juga merasakan kenyamanan dan kesenangan dalam menjelajahi destinasi              Tuban. Tuban Scape juga user-friendly, sehingga setiap orang dari wisatawan pemula hingga yang berpengalaman,                dapat dengan mudah menavigasi situs kami dan menemukan informasi yang mereka butuhkan.
 
+    2.2. FUNGSI PRODUK ||
+             Website ini memiliki beberapa fungsi yaitu : Informasi Destinasi yang memberikan informasi rinci tentang tempat          tempat wisata, termasuk deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan                    penilaian. Kemudian memudahkan pengguna untuk mencari wisata di Tuban yang paling populer. Lalu tampil website               Tuban Scape memberikan tampilan website yang menarik, sehingga pengguna merasakan kenyamanan dan kemudahan dalam             menjelajahi destinasi Tuban.
+
+    2.3. KELAS DAN KARATERISTIK PENGGUNA ||
+             Tuban Scape memiliki beberapa kelas pengguna yang mungkin menggunakan produk ini, berikut beserta                        karakteristiknya: 
+         1. Wisatawan → Wisatawan menggunakan website untuk mencari informasi rinci tentang tempat-tempat wisata, termasuk               deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan penilaian. 
+         2. Pengelola Website → Pihak yang bertanggung jawab atas pengelolaan website, seperti memperbarui fitur                         memperbarui tempat wisata dan memantau sistem website.
+
+    2.4. LINGKUNGAN PENGEMBANGAN
+             Website Tuban Scape memiliki beberapa teknologi yang dipakai untuk mengembangkan website ini, antara lain :
+         Pemrograman :
+         1. HTML : HyperText Markup Language
+         2. CSS : Cascading Style Sheets
+         Software Pengembangan :
+         1. Visual Studio Code : Software Pemrograman
+         2. Github : Publikasi dan Hosting
+         3. Figma : Pengembangan antarmuka pengguna (UI) dan pengalaman pengguna (UX)
+
+
+
+
 
 **2. LAMPIRAN**
    
