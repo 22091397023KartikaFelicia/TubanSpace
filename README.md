@@ -29,12 +29,12 @@ UNIVERSITAS NEGERI SURABAYA
    Audiens yang dituju pada website “Tuban Scape” adalah wisatawan lokal dan internasional yang tertarik untuk              menjelajahi keindahan dan budaya di kota Tuban. Website ini bertujuan untuk memberikan informasi dan pengalaman             kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur. Website ini diharapkan bisa           meningkatkan minat dan kunjungan wisatawan ke kota Tuban, serta memberikan dampak positif bagi perekonomian dan            pembangunan kota Tuban. Website ini akan menjadi sumber utama informasi wisata bagi wisatawan lokal dan                     internasional yang tertarik untuk menjelajahi keindahan dan budaya Tuban.
 
    1.4. LINGKUP PRODUK ||
-   Ruang lingkup dari sebuah website Tuban Scape dapat mencakup berbagai aspek yang terkait dengan pariwisata di            wilayah tersebut. Berikut adalah beberapa komponen yang bisa termasuk dalam ruang lingkup website Tuban Scape :
-1. Wisata
-2. Hiburan
-3. Lokasi
-4. Ulasan
-   
+            Ruang lingkup dari sebuah website Tuban Scape dapat mencakup berbagai aspek yang terkait dengan pariwisata di            wilayah tersebut. Berikut adalah beberapa komponen yang bisa termasuk dalam ruang lingkup website Tuban Scape :
+               1. Wisata
+               2. Hiburan
+               3. Lokasi
+               4. Ulasan
+                  
    1.5. RERENSI ||
 Bhayu Rama, Ph.D. Tata Kelola Destinasi Wisata: dan Peraturan Perundangan Pariwisata. PT Kanisius, 2020,                    https://books.google.co.id/books?                                              
 id=hqH6DwAAQBAJ&lpg=PR3&ots=bMbaKT5WNs&dq=destinasi%20wisata%20indonesia&lr&hl=id&pg=PR3-                                   IA5#v=onepage&q=destinasi%20wisata%20indonesia&f=false. |
@@ -51,31 +51,40 @@ Samuel Hartono, and Handinoto. ALUN-ALUN DAN REVITALISASI IDENTITAS KOTA TUBAN, 
 
     2.3. KELAS DAN KARATERISTIK PENGGUNA ||
    Tuban Scape memiliki beberapa kelas pengguna yang mungkin menggunakan produk ini, berikut beserta                        karakteristiknya: 
-1. Wisatawan → Wisatawan menggunakan website untuk mencari informasi rinci tentang tempat-tempat wisata, termasuk              deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan penilaian. 
-2. Pengelola Website → Pihak yang bertanggung jawab atas pengelolaan website, seperti memperbarui fitur                        memperbarui tempat wisata dan memantau sistem website.
+         1. Wisatawan → Wisatawan menggunakan website untuk mencari informasi rinci tentang tempat-tempat wisata, termasuk              deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan penilaian. 
+         2. Pengelola Website → Pihak yang bertanggung jawab atas pengelolaan website, seperti memperbarui fitur                        memperbarui tempat wisata dan memantau sistem website.
 
     2.4. LINGKUNGAN PENGEMBANGAN ||
    Website Tuban Scape memiliki beberapa teknologi yang dipakai untuk mengembangkan website ini, antara lain :
-Pemrograman :
-1. HTML : HyperText Markup Language
-2. CSS : Cascading Style Sheets
-Software Pengembangan :
-1. Visual Studio Code : Software Pemrograman
-2. Github : Publikasi dan Hosting
-3. Figma : Pengembangan antarmuka pengguna (UI) dan pengalaman pengguna (UX)
+         Pemrograman :
+         1. HTML : HyperText Markup Language
+         2. CSS : Cascading Style Sheets.
+         Software Pengembangan :
+         1. Visual Studio Code : Software Pemrograman
+         2. Github : Publikasi dan Hosting
+         3. Figma : Pengembangan antarmuka pengguna (UI) dan pengalaman pengguna (UX)
 
     2.5. KENDALA DESAIN DAN IMPLEMENTASI ||
    Proses pengujian website Tuban Scape masih berlangsung, dan kami sedang berupaya mengatasi beberapa kendala           yang ditemukan selama pengembangan. Beberapa fitur mungkin belum berfungsi sepenuhnya karena masih dalam tahap              pembuatan, tetapi kami berkomitmen untuk memastikan bahwa semuanya akan berjalan dengan baik seiring berjalannya            waktu. Selain itu, kami juga tengah melakukan penyesuaian tampilan pada website Tuban Scape untuk memastikan                tampilan yang lebih baik, lebih menarik, dan lebih mudah digunakan oleh pengguna. Kami berusaha keras untuk                 menyempurnakan setiap aspeknya sebelum kami resmi meluncurkan website ini.
 
     2.6. DOKUMETASI PENGGUNA ||
-Dokumen SKPL ini dibagi menjadi beberapa bagian, yaitu :
-1. Pendahuluan yang berisi gambaran umum dari seluruh dokumen SKPL. Yang berisikan tujuan penulisan dokumen,                   konvensi dokumen, pembaca yang dituju, lingkup produk, dan referensi.
-2. Deskripsi umum yang berisi penjelasan website secara umum. Dijelaskan melalui deskripsi umum, fungsi website,               karakteristik pengguna, batasan, lingkungan operasi.
-3. Kebutuhan antarmuka eksternal merincikan deskripsi masukan dan keluaran website yang dispesifikasikan. Ada                  berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka                  komunikasi.
-4. Fungsi produk berisi fungsi utama dari website.
-5. Kebutuhan non-fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat              lunak.
+         Dokumen SKPL ini dibagi menjadi beberapa bagian, yaitu :
+         1. Pendahuluan yang berisi gambaran umum dari seluruh dokumen SKPL. Yang berisikan tujuan penulisan dokumen,                   konvensi dokumen, pembaca yang dituju, lingkup produk, dan referensi.
+         2. Deskripsi umum yang berisi penjelasan website secara umum. Dijelaskan melalui deskripsi umum, fungsi website,               karakteristik pengguna, batasan, lingkungan operasi.
+         3. Kebutuhan antarmuka eksternal merincikan deskripsi masukan dan keluaran website yang dispesifikasikan. Ada                  berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka                  komunikasi.
+         4. Fungsi produk berisi fungsi utama dari website.
+         5. Kebutuhan non-fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat              lunak.
 
-    2.7. 
+    2.7. ASUMSI DAN KETERGANTUNGAN
+    Asumsi :
+      1. Admin memiliki ototritas penuh dalam pendataan wisata
+      2. Admin harus mengetahui riset wisata dan deskripsinya.
+      3. Website ini merupakan website yang bisa di akses dimana saja dan sistem operasi device manapun.
+   Ketergantungan :
+      1. Ketergantungan pada internet yang membuat website ini dapat diakses jika terdapat koneksi internet saja.
+      2. Ketergantungan pada deskripsi tempat wisata pada website, seperti lokasi, harga tiket dan jam operasional
+
+
 
 
 
