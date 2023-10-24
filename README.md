@@ -366,20 +366,21 @@ Langkah-langkah Proses:
 14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 # 6.1.2. Discover HTML
-1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>. 
+
+1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>.
 2. Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
-    - Pengaturan karakter : <meta charset="UTF-8"> untuk mengatur karakter encoding ke UTF-8.
-    - Viewport : <meta name="viewport" content="width=device-width, initial-scale=1.0"> untuk mengoptimalkan tampilan pada perangkat mobile.
-    - Referensi CSS : merujuk ke tiga berkas CSS eksternal melalui elemen <link>.
-    - Referensi JavaScript: Anda merujuk ke jQuery dan script.js melalui elemen <script>.
-    - Referensi ikon : menggunakan ikon dari Font Awesome dan Unicons.
-3. Bagian body adalah tempat untuk konten yang akan ditampilkan di halaman web. Beberapa elemen di sini adalah:
-    - Navbar: sebuah navigasi di bagian atas halaman web dengan logo "TUBANSCAPE" dan tautan menu seperti "Home," "Discover," dan "About."
-    - Searchbar: Di bawah navbar, ada sebuah kotak pencarian dengan ikon dan tombol "Search."
-    - Rekomendasi: bagian untuk mengurutkan hasil. Ada teks "Sort By" dan "Recommended."
-    - Filter dan Kategori: beberapa filter yang memungkinkan pengguna untuk menyaring hasil berdasarkan kategori wisata seperti "Air Terjun," "Gunung," dan lain-lain.
-    - Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
-4. Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
+- Pengaturan karakter : <meta charset="UTF-8"> untuk mengatur karakter encoding ke UTF-8.
+- Viewport : <meta name="viewport" content="width=device-width, initial-scale=1.0"> untuk mengoptimalkan tampilan pada perangkat mobile.
+- Referensi CSS : merujuk ke tiga berkas CSS eksternal melalui elemen <link>.
+- Referensi JavaScript: Anda merujuk ke jQuery dan script.js melalui elemen <script>.
+- Referensi ikon : menggunakan ikon dari Font Awesome dan Unicons.
+4. Bagian body adalah tempat untuk konten yang akan ditampilkan di halaman web. Beberapa elemen di sini adalah:
+- Navbar: sebuah navigasi di bagian atas halaman web dengan logo "TUBANSCAPE" dan tautan menu seperti "Home," "Discover," dan "About."
+- Searchbar: Di bawah navbar, ada sebuah kotak pencarian dengan ikon dan tombol "Search."
+- Rekomendasi: bagian untuk mengurutkan hasil. Ada teks "Sort By" dan "Recommended."
+- Filter dan Kategori: beberapa filter yang memungkinkan pengguna untuk menyaring hasil berdasarkan kategori wisata seperti "Air Terjun," "Gunung," dan lain-lain.
+- Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
+5. Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
 
 # 6.1.3. About HTML
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
