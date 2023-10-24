@@ -446,7 +446,8 @@ a:hover {
 /* Footer */
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 footer{
-	font-family: 'Poppins', sans-serif;   
+	font-family: 'Poppins', sans-serif;
+    bottom: 0;
 }
 .footer-content{
     display: flex;
@@ -489,8 +490,6 @@ ul{
 }
 .footer-col h4::before{
 	content: '';
-	position: absolute;
-	left:0;
 	bottom: -7px;
 	background-color: #2F80ED;
 	height: 2px;
