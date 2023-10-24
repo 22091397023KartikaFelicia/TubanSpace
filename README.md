@@ -257,15 +257,15 @@ Berdasarkan preferensi dan riwayat pencarian pengguna, sistem rekomendasi dapat 
 
 Pengguna dapat memberikan ulasan, peringkat, dan komentar tentang destinasi yang mereka kunjungi, dan sistem ini memproses dan menampilkan ulasan tersebut.
 
-## 4.2.5 Fitur Integrasi Media Sosial
+## 4.2.5. Fitur Integrasi Media Sosial
 
 Fitur ini memudahkan pengguna untuk berbagi konten situs web TubanScape di media sosial dengan ikon-ikon yang tersedia.
 
-## 4.2.6 Fitur Pengelolaan Gambar
+## 4.2.6. Fitur Pengelolaan Gambar
 
 Fitur ini dapat mengunggah, mengarsip, dan menyunting gambar yang akan ditampilkan pada situs.
 
-## 4.2.6 Fitur Integrasi Google Maps
+## 4.2.7. Fitur Integrasi Google Maps
 
 Fitur ini menyajikan peta interaktif yang memungkinkan pengguna untuk melakukan zoom, memindahkan tampilan, dan mengklik peta agar mendapatkan informasi lebih lanjut tentang destinasi wisata tersebu dengan memanfaatkan Google Maps API.
 
