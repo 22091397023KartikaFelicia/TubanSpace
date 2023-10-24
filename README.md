@@ -15,8 +15,8 @@
 - [BAB 1](#BAB-1)
 - [PENDAHULUAN](#PENDAHULUAN)
 
-- [1.1. TUJUAN](#1.1.TUJUAN)
-- [1.2. KONVEKSI DOKUMEN](#1.2.KONVEKSI-DOKUMEN)
+- [1.1. TUJUAN](#11-TUJUAN)
+- [1.2. KONVEKSI DOKUMEN](#12-KONVEKSI-DOKUMEN)
 
 
 <div align="center">
@@ -130,26 +130,31 @@ Ketergantungan :
 ## PERSYARATAN ANTARMUKA
 
 </div>
-   
-   3.1. ANTARMUKA PENGGUNA ||
-   Tuban Scape menggusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Kombinasi warna yang dipilih dirancang dengan teliti, menciptakan tampilan yang nyaman di mata tanpa kesan norak.
 
-   3.2. ANTARMUKA PERANGKAT KERAS ||
+## 3.1. ANTARMUKA PENGGUNA
+
+Tuban Scape menggusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Kombinasi warna yang dipilih dirancang dengan teliti, menciptakan tampilan yang nyaman di mata tanpa kesan norak.
+
+## 3.2. ANTARMUKA PERANGKAT KERAS
+
 Antarmuka Perangkat Keras yang digunakan oleh Tuban Scape adalah Smartphone atau komunter untuk mengakses website Tuban Scape.
 
-   3.3. ANTARMUKA PERANGKAT LUNAK ||
-         A. Home |
-            ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Homepage.png) 
+## 3.3. ANTARMUKA PERANGKAT LUNAK
 
-      B. Discover |
-         - Tampilan Rekomendasi Wisata
-            ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Search%20Results.png)
-         - Tampilan Detail Wisata
-            ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Product%20detail.png)
-      C. About |
-         ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/About.jpg)
+A. Home
+   ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Homepage.png) 
+
+B. Discover
+   - Tampilan Rekomendasi Wisata
+     ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Search%20Results.png)
+   - Tampilan Detail Wisata
+     ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Product%20detail.png)
+
+C. About
+   ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/About.jpg)
   
-   3.4. FITUR SISTEM
+## 3.4. FITUR SISTEM
+
    
 
 
