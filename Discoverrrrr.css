@@ -242,15 +242,13 @@ a:hover {
 }
 
 /* rating */
-.rating .rating-text{
 
-}
 .rating{
     margin-top: 5vh;
     width: 295px;
     height: 170px;
     border-radius: 6px;
-    
+    border: 1px solid var(--Gray-5, #E0E0E0);
 }
 .rating-text{
     display: flex;
