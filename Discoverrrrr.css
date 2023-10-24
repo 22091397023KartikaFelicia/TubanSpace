@@ -377,15 +377,16 @@ a:hover {
   .Review2{
       color: var(--Gray-2, #4F4F4F);
       font-size: 14px;
-      
       letter-spacing: 0.28px;
      margin-left: 2vh;
   }
   .text-box2 p{
       color: rgba(24, 24, 24, 0.82);
       font-size: 13px;
-      font-weight: 400;
       margin-top: 2vh;
+  }
+  .Review2 .text-box2 p{
+    font-weight: 400;
   }
   /* Button Style */
   .btn2{
