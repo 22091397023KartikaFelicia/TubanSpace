@@ -293,7 +293,6 @@ a:hover {
     height: 240px;
     border-radius: 5px;
     border: 1px solid var(--Gray-5, #E0E0E0);
-    background: #FFF;
     margin-left: 5vh;
     display: flex;
     align-items: center;
