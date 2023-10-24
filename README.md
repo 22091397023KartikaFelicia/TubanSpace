@@ -324,20 +324,6 @@ Langkah-langkah Proses:
 
 ## 6.1.1. Index HTML
 
-1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
-2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
-3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
-4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
-5. Elemen Header: Di dalam elemen header, kita memiliki kelas "header-content" yang berisi judul dan subjudul.
-6. Elemen Searchbar: terdapat kelas "searchbar" menandakan bagian dari elemen search bar yang digunakan untuk mencari informasi tentang wisata di halaman web.
-7. Elemen "Vacation": Elemen "section" dengan kelas "vacation" menandai bagian berita tentang liburan. Elemen "title" mengelompokkan elemen-elemen yang berkaitan dengan judul berita. Judul berita ditampilkan dengan elemen "h1" yang mengindikasikan berita yang menginspirasi perjalanan.
-8. Elemen "Famous": Elemen "section" dengan kelas "famous" menandai bagian "famous" yang berisi daftar tempat terkenal di Tuban. Di dalamnya, terdapat elemen "box-famous" yang berisi elemen-elemen seperti gambar tempat terkenal, tautan, dan judul destinasi wisata.
-9. Elemen "Berita": Elemen "section" dengan kelas "vacation" menandai bagian berita liburan. Elemen "title" mengelompokkan elemen-elemen berita. Judul berita ditampilkan dengan elemen "h1," yang mengindikasikan berita yang menginspirasi perjalanan.
-10. Elemen "Berita": Elemen "section" dengan kelas "berita" menandai bagian berita yang berisi elemen "containt." Setiap berita terdiri dari elemen "boc" yang berisi elemen gambar, tautan, judul, dan teks berita.
-11. Elemen "Recommended Hotel": Elemen "section" dengan kelas "Hotel" menandai bagian rekomendasi hotel. Elemen "title" mengelompokkan elemen dengan judul "Recommended Hotel."
-12. Elemen "Recommended Hotel": Elemen "section" dengan kelas "hotel" menandai bagian rekomendasi hotel yang berisi elemen "container-hotel." Di dalam "container-hotel," terdapat elemen "box-hotel" yang berisi informasi tentang setiap hotel, termasuk gambar, tautan, dan judul hotel.
-13. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
-14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 # 6.1.2. Discover HTML
 
