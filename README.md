@@ -82,7 +82,8 @@
 - [6.2. CSS](#62-CSS)
 - [6.2.1. Style CSS](#621-Style-CSS)
 - [6.2.2. Discover CSS](#622-Discover-CSS)
-- [6.2.3. Gallery CSS](#623-Gallery-CSS)
+- [6.2.3. GalleryStyle CSS](#623-GalleryStyle-CSS)
+- [6.3. JavaScript](#63-JavaScript)
 
 <div align="center">
   
