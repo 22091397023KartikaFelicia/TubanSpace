@@ -40,6 +40,25 @@
 - [3.2. ANTARMUKA HARDWARE](#32-Antarmuka-Hardware)
 - [3.3. USER INTERFACE](#33-User-Interface)
 
+- [BAB 4](#BAB-4)
+- [FITUR](#FITUR)
+
+- [4.1. Deskripsi dan Prioritas](#41-Deskripsi-dan-Prioritas)
+- [4.1.1. Fitur Homepage](#411-Fitur-Homepage)
+- [4.1.2. Fitur Discover](#412-Fitur-Discover)
+- [4.1.3. Fitur About](#413-Fitur-About)
+
+- [4.2. Fitur Sistem](#42-Fitur-Sistem)
+- [4.2.1. Fitur Pencarian](421-Fitur-Pencarian)
+- [4.2.2. Fitur Database Destinasi](#422-Fitur-Database-Destinasi)
+- [4.2.3. Fitur Rekomendasi](#423-Fitur-Rekomendasi)
+- [4.2.4. Fitur Sistem Ulasan](#424-Fitur-Sistem-Ulasan)
+- [4.2.5. Fitur Integrasi Media Sosial](425-Fitur-Integrasi-Media-Sosial)
+- [4.2.6. Fitur Pengelolaan Gambar](#426-Fitur-Pengelolaan-Gambar)
+- [4.2.7. Fitur Integrasi Google Maps](#427-Fitur-Integrasi Google)
+
+- 
+
 <div align="center">
   
 ## BAB 1
@@ -238,22 +257,86 @@ Fitur ini menyajikan peta interaktif yang memungkinkan pengguna untuk melakukan 
 
 Menggambarkan interaksi antara sistem website “Tuban Scape” dengan 2 aktor yaitu: admin dan user (pengunjung). aktor-aktor tersebut tentunya memiliki tugas yang berbeda. Interaksi antara admin dan pengunjung dengan website "Tuban Scape" menciptakan pengalaman yang lengkap, di mana admin bertanggung jawab untuk mengelola informasi dan mengelola konten tentang wisata di Tuban, sementara pengunjung dapat mengakses dan berinteraksi dengan informasi yang disediakan untuk merencanakan pengalaman wisata mereka di Kabupaten Tuban.
 
-## 5.2. Flowchart User
+## 5.2. Flowchart
+
+## 5.2.1. Flowchart User
 
 ![image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/flowchart%20user.png)
 
-## 5.3. Flowchart Admin
+User harus masuk terlebih dahulu ke website Tuban Scape dengan menggunakan browser web. Kemudian Tampilan pertama akan muncul yaitu tampilan Home, yang akan menampilkan informasi tentang sekilas wisata, berita, dan rekomendasi hotel. Lalu user akan memilih Discover, yang akan menampilakan rekomendasi hotel, dan juga user dapat mencari tempat wisata yang ingin dikunjungi. Jika tempat wisata yang dicari tersedia maka user akan melihat detail informasi wisata tersebut seperti, lokasi, fasilitas, harga tiket masuk, dan jam operasional. Namun jika tempat wisata yang dicari tidak tersedia maka user akan diberi rekomendasi tempat wisata lainnya. Setelah user melakukan perjalanan wisata maka user akan memberikan rating dan ulasan. User juga dapat memilih fitur AboutUs yang akan memberikan informasi tentang website Tuban Scape. 
+
+## 5.2.2. Flowchart Admin
 
 ![image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/flowchart%20admin.png)
 
+Admin membuat website Tuban Scape dengan melakukan beberapa hal , yaitu memantau aktivitas sistem, mengubah data tempat wisata seperti menghapus data atau menambahkan data baru. Lalu admin juga memeriksa ulasan dan rating, jika user memberi ulasan dan rating maka admin akan menyetujui jika ulasan dan rating sesuai, jika tidak sesuai maka admin menghapus ulasan dan rating, hal ini dilakukan untuk menjaga kualitas konten yang ada di website.Admin juga pastinya akan melakukan pengembangan website Tuban Scape.
+
+## 5.3. Persyaratan Perfoma
+
+## 5.3.1. Persyaratan Hardware 
+
+- Perangkat Komputer: Pengguna harus memiliki perangkat komputer, seperti PC, laptop, tablet, atau smartphone.
+- Koneksi Internet: Pengguna harus memiliki koneksi internet yang stabil dan cepat untuk mengakses situs web dengan lancar.
+- Layar: Resolusi layar minimal yang disarankan adalah 1024 x 768 piksel
+
+## 5.3.2. Persyaratan Software
+
+- Sistem Operasi: Website Tubanscape dapat diakses pada Windows 7 ke atas, MacOS 10.12 ke atas, iOS 6 ke atas, Android 6 ke atas, dan sistem operasi lain yang kompatibel.
+- Browser Web: Pengguna memerlukan browser web yang kompatibel untuk mengakses website TubanScape. Browser yang digunakan seperti Google Chrome, Mozilla Firefox, Apple Safari, dan Microsoft Edge.
+
+## 5.3.3. Persyaratan Keamanan Pengguna
+
+Data pengguna disimpan pada server yang aman dan dilindungi dengan enkripsi. data tersebut berupa nama, alamat email, dan nomor telepon. data tersebut harus dilindungi dari akses yang tidak sah. 
+
+## 5.3.4. Persyaratan Keamanan Website
+
+- Menggunakan protokol HTTPS dan sertifikat SSL yang valid untuk menjamin integritas dan kerahasiaan data yang dikirimkan antara web dan pengguna.
+- Menggunakan mekanisme enkripsi untuk melindungi data informasi pribadi pengguna dari pencurian atau manipulasi oleh pihak yang tidak bertanggung jawab.
+- Menggunakan mekanisme validasi form, filter input, dan output untuk mencegah serangan injeksi yang dapat merusak fungsi atau tampilan web.
+- Menggunakan mekanisme pembaruan dan pemeliharaan yang rutin untuk memastikan bahwa web selalu menggunakan versi terbaru dan bebas dari bug atau celah keamanan.
+
+
+## 5.4. Proses Bisnis
+
+Proses Bisnis pada pengelolaan konten wisata di Website Tubanscape bertujuan untuk mengumpulkan, mengelola, dan menyajikan informasi lengkap dan menarik tentang destinasi wisata di Tuban kepada pengguna. Informasi ini mencakup deskripsi destinasi, foto, ulasan, harga tiket, jam buka, fasilitas, dan detail lainnya. berikut Entitas yang Terlibat:
+1. Pengguna (User): Pengguna adalah individu yang mengakses dan berinteraksi dengan website Tubanscape. Mereka mencari informasi tentang destinasi wisata dan membaca ulasan pengguna lainnya.
+2. Destinasi Wisata (Tourist Destinations): Entitas ini mencakup berbagai lokasi atau destinasi wisata di Tuban. Ini adalah subjek utama dalam pengelolaan konten wisata.
+3. Konten Wisata (Tourist Content): Ini mencakup semua informasi tentang destinasi wisata, seperti deskripsi, foto, ulasan, harga tiket, jam buka, fasilitas, dan detail lainnya. Konten ini disediakan oleh tim pengelola website.
+4. Tim Pengelola (Management Team): Tim pengelola Tubanscape bertanggung jawab atas pengumpulan, pembaruan, dan pengelolaan konten wisata. Ini mencakup editor konten dan pengembang web.
+   
+Langkah-langkah Proses:
+1. Pengumpulan Informasi: Tim pengelola mengumpulkan informasi terkait destinasi wisata di Tuban, termasuk deskripsi, foto, ulasan, harga tiket, jam buka, fasilitas, dan detail lainnya.
+2. Pemuatan Konten: Informasi yang dikumpulkan dimuat ke dalam sistem website. Ini mencakup pembuatan halaman destinasi, mengunggah foto, dan memasukkan data lengkap.
+3. Pembaruan Konten: Tim pengelola secara berkala memperbarui konten wisata sesuai dengan perubahan informasi atau kondisi aktual destinasi.
+4. Penyajian Konten: Informasi tentang destinasi wisata disajikan kepada pengguna dalam format yang menarik dan mudah dimengerti.
+5. Navigasi dan Pencarian: Pengguna dapat dengan mudah menavigasi halaman destinasi dan menggunakan fitur pencarian untuk menemukan destinasi yang mereka minati.
+6. Integrasi Media Sosial: Pengguna dapat berbagi konten destinasi di media sosial mereka melalui ikon-ikon yang tersedia.
+
+<div align="center">
+  
+## BAB 6
+
+## PENJELASAN HTML DAN CSS
+
+</div>
+
+## 6.1. Index HTML
+
+1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
+2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
+3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
+4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
+5. Elemen Header: Di dalam elemen header, kita memiliki kelas "header-content" yang berisi judul dan subjudul.
+6. Elemen Searchbar: terdapat kelas "searchbar" menandakan bagian dari elemen search bar yang digunakan untuk mencari informasi tentang wisata di halaman web.
+7. Elemen "Vacation": Elemen "section" dengan kelas "vacation" menandai bagian berita tentang liburan. Elemen "title" mengelompokkan elemen-elemen yang berkaitan dengan judul berita. Judul berita ditampilkan dengan elemen "h1" yang mengindikasikan berita yang menginspirasi perjalanan.
+8. Elemen "Famous": Elemen "section" dengan kelas "famous" menandai bagian "famous" yang berisi daftar tempat terkenal di Tuban. Di dalamnya, terdapat elemen "box-famous" yang berisi elemen-elemen seperti gambar tempat terkenal, tautan, dan judul destinasi wisata.
+9. Elemen "Berita": Elemen "section" dengan kelas "vacation" menandai bagian berita liburan. Elemen "title" mengelompokkan elemen-elemen berita. Judul berita ditampilkan dengan elemen "h1," yang mengindikasikan berita yang menginspirasi perjalanan.
+10. Elemen "Berita": Elemen "section" dengan kelas "berita" menandai bagian berita yang berisi elemen "containt." Setiap berita terdiri dari elemen "boc" yang berisi elemen gambar, tautan, judul, dan teks berita.
+11. Elemen "Recommended Hotel": Elemen "section" dengan kelas "Hotel" menandai bagian rekomendasi hotel. Elemen "title" mengelompokkan elemen dengan judul "Recommended Hotel."
+12. Elemen "Recommended Hotel": Elemen "section" dengan kelas "hotel" menandai bagian rekomendasi hotel yang berisi elemen "container-hotel." Di dalam "container-hotel," terdapat elemen "box-hotel" yang berisi informasi tentang setiap hotel, termasuk gambar, tautan, dan judul hotel.
+13. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
+14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 
 
 
-
-
-
-
-   **B. Flowchart**
-
-![image](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/df50dcfd-8e4c-4c51-8e82-cfcfb22921fd)
