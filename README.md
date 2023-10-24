@@ -74,7 +74,7 @@
 - [BAB 6](#BAB-6)
 - [PENJELASAN HTML DAN CSS](#PENJELASAN-HTML-DAN-CSS)
 
-- [6.1. HTML](61-HTML)
+- [6.1. HTML](#61-HTML)
 - [6.1.1. Index HTML](#611-Index-HTML)
 - [6.1.2. Discover HTML](#612-Discover-HTML)
 - [6.1.3. About HTML](#613-About-HTML)
