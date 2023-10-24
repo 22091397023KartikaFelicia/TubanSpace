@@ -458,5 +458,7 @@ Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan re
 
 ## 6.3. JavaScript
 
+1. Pertama, memilih semua elemen dengan tag "i" yang memiliki kelas "stars" dan menyimpannya dalam sebuah NodeList yang disebut "stars".
+2. 
 
 
