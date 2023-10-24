@@ -12,11 +12,26 @@
 </div>
 
 ## Daftar Isi
+
 - [BAB 1](#BAB-1)
 - [PENDAHULUAN](#PENDAHULUAN)
 
 - [1.1. TUJUAN](#11-TUJUAN)
 - [1.2. KONVEKSI DOKUMEN](#12-KONVEKSI-DOKUMEN)
+- [1.3. AUDIENS YANG DITUJU](#13-AUDIENS-YANG-DITUJU)
+- [1.4. LINGKUP PRODUK](#14-LINGKUP-PRODUK)
+- [1.5. REFERENSI](#15-REFERENSI)
+
+- [BAB 2](#BAB-2)
+- [DESKRIPSI KESELURUHAN](#DESKRIPSI-KESELURUHAN)
+
+- [2.1. PERSPEKTIF PRODUK](#21-PERSPEKTIF-PRODUK)
+- [2.2. FUNGSI PRODUK](#22-FUNGSI-PRODUK)
+- [2.3. KELAS DAN KARATERISTIK PRODUK PENGGUNA(#23-KELAS-DAN-KARATERISTIK)
+- [2.4. LINGKUNGAN PENGEMBANGAN
+- [2.5. KENDALA DESAIN DAN IMPELENTASI
+- [2.6. DOKUMENTASI PENGGUNA
+- [2.7. ASUMSI DAN KETERGANTUNGAN]
 
 
 <div align="center">
@@ -56,7 +71,7 @@ Ruang lingkup dari sebuah website Tuban Scape dapat mencakup berbagai aspek yang
 3. Lokasi
 4. Ulasan
                   
-## 1.5. RERENSI
+## 1.5. REFERENSI
 
 Bhayu Rama, Ph.D. Tata Kelola Destinasi Wisata: dan Peraturan Perundangan Pariwisata. PT Kanisius, 2020,                    https://books.google.co.id/books?                                              
 id=hqH6DwAAQBAJ&lpg=PR3&ots=bMbaKT5WNs&dq=destinasi%20wisata%20indonesia&lr&hl=id&pg=PR3-                                   IA5#v=onepage&q=destinasi%20wisata%20indonesia&f=false. |
