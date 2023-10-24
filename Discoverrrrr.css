@@ -167,7 +167,6 @@ a:hover {
 .FB{
     width: 295px;
     height: 293px;
-    flex-shrink: 0;
     border-radius: 6px;
     border: 1px solid var(--Gray-5, #E0E0E0);
 }
