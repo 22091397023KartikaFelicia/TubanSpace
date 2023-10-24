@@ -369,20 +369,21 @@ Langkah-langkah Proses:
 
 1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>.
 2. Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
-   - Pengaturan karakter : <meta charset="UTF-8"> untuk mengatur karakter encoding ke UTF-8.
-   - Viewport : <meta name="viewport" content="width=device-width, initial-scale=1.0"> untuk mengoptimalkan tampilan pada perangkat mobile.
+   - Pengaturan karakter : meta charset="UTF-8" untuk mengatur karakter encoding ke UTF-8.
+   - Viewport : meta name="viewport" content="width=device-width, initial-scale=1.0" untuk mengoptimalkan tampilan pada perangkat mobile.
    - Referensi CSS : merujuk ke tiga berkas CSS eksternal melalui elemen <link>.
    - Referensi JavaScript: Anda merujuk ke jQuery dan script.js melalui elemen <script>.
    - Referensi ikon : menggunakan ikon dari Font Awesome dan Unicons.
 4. Bagian body adalah tempat untuk konten yang akan ditampilkan di halaman web. Beberapa elemen di sini adalah:
-- Navbar: sebuah navigasi di bagian atas halaman web dengan logo "TUBANSCAPE" dan tautan menu seperti "Home," "Discover," dan "About."
-- Searchbar: Di bawah navbar, ada sebuah kotak pencarian dengan ikon dan tombol "Search."
-- Rekomendasi: bagian untuk mengurutkan hasil. Ada teks "Sort By" dan "Recommended."
-- Filter dan Kategori: beberapa filter yang memungkinkan pengguna untuk menyaring hasil berdasarkan kategori wisata seperti "Air Terjun," "Gunung," dan lain-lain.
-- Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
+   - Navbar: sebuah navigasi di bagian atas halaman web dengan logo "TUBANSCAPE" dan tautan menu seperti "Home," "Discover," dan "About."
+   - Searchbar: Di bawah navbar, ada sebuah kotak pencarian dengan ikon dan tombol "Search."
+   - Rekomendasi: bagian untuk mengurutkan hasil. Ada teks "Sort By" dan "Recommended."
+   - Filter dan Kategori: beberapa filter yang memungkinkan pengguna untuk menyaring hasil berdasarkan kategori wisata seperti "Air Terjun," "Gunung," dan lain-lain.
+   - Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
 5. Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
 
 # 6.1.3. About HTML
+
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
 3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
@@ -393,24 +394,26 @@ Langkah-langkah Proses:
 8. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 # 6.1.4. Gallery HTML
+
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
 3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
 4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
-5. Elemen `<section class="gallery"> :  bagian dari halaman web yang menandai galeri gambar. Ini terdiri dari elemen `<div class="container">` yang berisi elemen-elemen `<div class="box-gallery">`. Setiap kotak tersebut berisi gambar yang ditandai oleh elemen `<img>`. Gambar-gambar tersebut memiliki kelas, yaitu "portrait" atau "landscape," tergantung pada orientasinya.
-6. Elemen `<div class="rating-box"> : Bagian ini digunakan untuk menampilkan informasi dan peringkat dari objek wisata Elemen `<h2>` digunakan untuk menampilkan judul objek wisata tersebut. Elemen `<div class="stars">` dan `<i>` digunakan untuk menampilkan bintang-bintang peringkat. Elemen `<div class="paragraph">` dan `<p>` digunakan untuk menampilkan deskripsi objek wisata.
-7. Elemen `<div class="map-container"> : Bagian ini berisi peta dan lokasi Mata Air Sungai Krawak. Elemen `<iframe>` digunakan untuk menampilkan peta Google Maps dengan berbagai atribut seperti `src`, `width`, `height`, `allowfullscreen`, `loading`, dan `referrerpolicy`. Selain itu, ada juga elemen `<a>` yang menampilkan tautan ke peta Google Maps dengan atribut `href` dan `target`. Elemen `<i>` digunakan untuk menampilkan ikon penanda lokasi, dan teks "Lokasi" memberikan informasi geografis lokasi tersebut.
-8. Elemen `<div class="ticket"> : Bagian ini berisi informasi tentang tiket masuk dan jam operasional objek wisata. Elemen `<i>` digunakan untuk menampilkan ikon tiket dan jam. Teks "Harga Tiket Masuk" dan "Jam Operasional" menjelaskan biaya masuk dan jam buka objek wisata.
-9. Elemen `<div class="facilities"> : Bagian ini menampilkan fasilitas-fasilitas wisata. Ini terdiri dari elemen `<h3>` untuk judul dan elemen `<ul>` untuk daftar fasilitas. Setiap elemen `<li>` berisi elemen `<img>` untuk menampilkan ikon dan teks yang menjelaskan fasilitas tersebut.
-10. Elemen `<div class="customer-review"> : Bagian ini berisi ulasan dari pengunjung. Elemen `<h3>` digunakan untuk menampilkan judul, dan elemen `<ul>` berisi daftar ulasan. Setiap elemen `<li>` berisi elemen-elemen seperti `<div class="profile">`, `<img>`, `<span>`, `<div class="stars">`, dan `<p>`, yang digunakan untuk menampilkan profil pengunjung, gambar, nama, peringkat dalam bentuk bintang, dan komentar dari pengunjung.
-11. Elemen `<a href="index.html" class="back-button"> : Ini adalah tautan yang mengarahkan ke halaman "index.html." Elemen `<i class="fa-solid fa-arrow-left">` digunakan untuk menampilkan ikon panah ke kiri. Teks "Kembali" adalah label tombol yang menandakan fungsi tautan ini, yaitu untuk kembali ke halaman sebelumnya.
+5. Elemen section class="gallery" : bagian dari halaman web yang menandai galeri gambar. Ini terdiri dari elemen div class="container" yang berisi elemen-elemen <div class="box-gallery". Setiap kotak tersebut berisi gambar yang ditandai oleh elemen <img>. Gambar-gambar tersebut memiliki kelas, yaitu "portrait" atau "landscape," tergantung pada orientasinya.
+6. Elemen <div class="rating-box" : Bagian ini digunakan untuk menampilkan informasi dan peringkat dari objek wisata Elemen <h2> digunakan untuk menampilkan judul objek wisata tersebut. Elemen div class="stars" dan <i> digunakan untuk menampilkan bintang-bintang peringkat. Elemen `<div class="paragraph" dan <p> digunakan untuk menampilkan deskripsi objek wisata.
+7. Elemen div class="map-container" : Bagian ini berisi peta dan lokasi Mata Air Sungai Krawak. Elemen <iframe> digunakan untuk menampilkan peta Google Maps dengan berbagai atribut seperti src, width, height, allowfullscreen, loading, dan referrerpolicy. Selain itu, ada juga elemen <a> yang menampilkan tautan ke peta Google Maps dengan atribut href dan target. Elemen <i> digunakan untuk menampilkan ikon penanda lokasi, dan teks "Lokasi" memberikan informasi geografis lokasi tersebut.
+8. Elemen div class="ticket" : Bagian ini berisi informasi tentang tiket masuk dan jam operasional objek wisata. Elemen <i> digunakan untuk menampilkan ikon tiket dan jam. Teks "Harga Tiket Masuk" dan "Jam Operasional" menjelaskan biaya masuk dan jam buka objek wisata.
+9. Elemen div class="facilities" : Bagian ini menampilkan fasilitas-fasilitas wisata. Ini terdiri dari elemen <h3> untuk judul dan elemen <ul> untuk daftar fasilitas. Setiap elemen <li> berisi elemen <img> untuk menampilkan ikon dan teks yang menjelaskan fasilitas tersebut.
+10. Elemen div class="customer-review" : Bagian ini berisi ulasan dari pengunjung. Elemen <h3> digunakan untuk menampilkan judul, dan elemen <ul> berisi daftar ulasan. Setiap elemen <li> berisi elemen-elemen seperti div class="profile", <img>, <span>, div class="stars", dan <p>, yang digunakan untuk menampilkan profil pengunjung, gambar, nama, peringkat dalam bentuk bintang, dan komentar dari pengunjung.
+11. Elemen a href="index.html" class="back-button : Ini adalah tautan yang mengarahkan ke halaman "index.html." Elemen i class="fa-solid fa-arrow-left" digunakan untuk menampilkan ikon panah ke kiri. Teks "Kembali" adalah label tombol yang menandakan fungsi tautan ini, yaitu untuk kembali ke halaman sebelumnya.
 12. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 13. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 ## 6.2. CSS
 
 ## 6.2.1. Style CSS
-  Struktur Style CSS terdiri dari beberapa blok yaitu :
+
+Struktur Style CSS terdiri dari beberapa blok yaitu :
 1. Blok Reser Gaya : Blok ini mengatur nol margin, nol padding, serta gaya default untuk elemen-elemen di halaman. Selain itu, mengatur jenis font dan efek scroll halus untuk elemen HTML.
 2. Blok Header : Blok ini mengatur tampilan kepala halaman, termasuk gambar latar belakang, judul, dan elemen pencarian. Lalu juga memiliki animasi fadeInUp yang diterapkan pada elemen header.
 3. Blok Searchbar : Blok ini mengatur tampilan kotak pencarian dengan elemen input dan tombol pencarian.
@@ -418,13 +421,14 @@ Langkah-langkah Proses:
 5. Blok Section : Blok ini mengatur tampilan bagian "Enjoy Your Dream Vacation" dengan judul dan teks.
 6. Blok Famous : Blok ini mengatur tampilan bagian "Famous Places" dengan gambar-gambar tempat.
 7. Blok berita : Blok ini mengatur tampilan bagian berita dengan gambar dan teks berita.
-8. Blok Hotel : Blok  mengatur stil untuk bagian header yang mencakup judul, teks, tombol, dan gambar. .Container adalah kelas yang menjaga konten dalam satu baris dan menyesuaikan lebarnya dengan perangkat pengguna. .Hero-Content menangani konten teks, seperti judul, paragraf, dan tombol. .Hero-Image mengatur gambar yang muncul di samping teks.
+8. Blok Hotel : Blok  mengatur stil untuk bagian header yang mencakup judul, teks, tombol, dan gambar. Container adalah kelas yang menjaga konten dalam satu baris dan menyesuaikan lebarnya dengan perangkat pengguna. .Hero-Content menangani konten teks, seperti judul, paragraf, dan tombol. .Hero-Image mengatur gambar yang muncul di samping teks.
 9. Blok Gaya Footer : Blok ini mengimpor jenis huruf dari Google Fonts dan mengatur tampilan footer.
 10. Blok Footer : Blok ini mengatur tampilan footer, termasuk informasi kontak, tautan, dan ikon media sosial.
 11. Blok About : Blok ini mengatur tampilan bagian "About Us," termasuk konten dan gambar.
 12. Blok Wrapper : Blok ini mengatur tampilan bagian "Meet Our Team" dengan daftar anggota tim dan gambar.
 
 ## 6.2.2. Discover CSS
+
 Struktur Style CSS terdiri dari beberapa blok yaitu :
 1. Blok reser gaya : Blok ini mengatur nol margin, nol padding, serta gaya default untuk elemen-elemen di halaman. dan juga mengimpor jenis huruf 'Open Sans' dari Google Fonts.
 2. Blok Header (Navbar) : Blok ini mengatur tampilan navbar, termasuk gambar latar belakang di latar belakang navbar, logo, dan tautan menu.
@@ -438,6 +442,7 @@ Struktur Style CSS terdiri dari beberapa blok yaitu :
 10. Blok Footer : Blok ini mengatur tampilan footer, termasuk tautan, kolom, dan ikon media sosial.
 
 ## 6.2.3. GalleryStyle CSS
+
 1. Selektor Universal * menghapus margin dan padding bawaan, mengatur model kotak ke border-box, dan mengatur font default untuk semua elemen.
 Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan responsif. Pada kondisi tersebut, lebar elemen dengan kelas container dan gallery diatur menjadi 100%.
 2. Menghasilkan tautan yang terlihat seperti teks biasa tanpa dekorasi, berwarna hitam, dan berukuran 1 rem. Saat pengguna mengarahkan kursor mouse ke tautan, warna teks tautan akan berubah menjadi "burlywood"
@@ -452,6 +457,7 @@ Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan re
 11. Kotak abu-abu muda dengan border melengkung menampilkan fasilitas wisata di web. Kotak punya padding dan margin 20 piksel. Judul abu-abu ukuran 24 piksel ada di atas kotak dengan margin bawah 20 piksel. Daftar fasilitas tanpa tanda ada di bawah judul. Tiap fasilitas punya ikon 30x30 piksel di kiri teks dengan margin kanan 10 piksel.
 
 ## 6.3. JavaScript
+
 1. Pertama, memilih semua elemen dengan tag "i" yang memiliki kelas "stars" dan menyimpannya dalam sebuah NodeList yang disebut "stars".
 2. Kemudian melakukan perulangan (loop) melalui NodeList "stars" dengan menggunakan metode forEach().
 3. Di dalam loop tersebut, menambahkan event listener pada setiap elemen "star" untuk mengidentifikasi saat elemen tersebut di-klik (event "click"). Ketika elemen bintang di-klik, sebuah fungsi dijalankan.
@@ -459,6 +465,4 @@ Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan re
 5. Jika indeks (index1) elemen saat di-klik lebih besar atau sama dengan indeks (index2) elemen dalam perulangan ini, maka menambahkan kelas "active" ke elemen tersebut, yang berarti elemen tersebut akan menjadi bintang yang diberi penanda "active". Sebaliknya, jika indeks elemen saat di-klik lebih kecil dari indeks elemen dalam perulangan ini, maka menghapus kelas "active" dari elemen tersebut.
 6. Lalu mendefinisikan perilaku tombol pencarian (button) dengan kelas "button". Saat tombol ditekan (mousedown), menambahkan kelas "Clicked" ke tombol, dan saat tombol dilepaskan (mouseup) akan menghapus kelas tersebut.
 7. Menangani elemen-elemen checkbox dengan kelas "item", dengan memilih semua elemen ini dan menambahkan event listener agar ketika salah satu elemen checkbox diklik, kelas "checked" ditambahkan atau dihapus.
-
-
 
