@@ -349,6 +349,7 @@ Langkah-langkah Proses:
 ## 6.1. HTML
 
 ## 6.1.1. Index HTML
+
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
 3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
