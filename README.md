@@ -460,6 +460,7 @@ Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan re
 
 1. Pertama, memilih semua elemen dengan tag "i" yang memiliki kelas "stars" dan menyimpannya dalam sebuah NodeList yang disebut "stars".
 2. Kemudian melakukan perulangan (loop) melalui NodeList "stars" dengan menggunakan metode forEach().
-3. 
+3. Di dalam loop tersebut, menambahkan event listener pada setiap elemen "star" untuk mengidentifikasi saat elemen tersebut di-klik (event "click"). Ketika elemen bintang di-klik, sebuah fungsi dijalankan.
+4. 
 
 
