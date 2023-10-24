@@ -101,7 +101,7 @@ Letak kota Tuban yang sangat strategis berada di jalur utama pantura membuatnya 
 
 Website “Tuban Scape” akan menyajikan informasi lengkap tentang lokasi, fasilitas, dan deskripsi wisata di Tuban. Website ini juga akan menampilkan foto-foto dan video-video tentang pesona Tuban dari berbagai sudut pandang. Selain itu, website ini juga akan menyediakan fitur-fitur interaktif yang dapat meningkatkan kenyamanan dan kepuasan pengguna, seperti rating dan ulasan.
 
-## 1.2. Kovenksi Dokumen
+## 1.2. Konveksi Dokumen
 
 Website Tubanscape, memberikan berbagai manfaat kepada pengguna yang mencari informasi tentang tempat wisata diTuban. Berikut adalah beberapa fungsi yang dapat diimplementasikan :
 1. Wisatawan dapat mencari dan memilih wisata rekomendasi di Tuban
@@ -144,11 +144,11 @@ Selain itu, Tuban Scape memberikan tampilan website yang segar dan menarik, sehi
 
 ## 2.2. Fungsi Produk
 
-Website ini memiliki beberapa fungsi yaitu : Informasi Destinasi yang memberikan informasi rinci tentang tempat     tempat wisata, termasuk deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan           penilaian. Kemudian memudahkan pengguna untuk mencari wisata di Tuban yang paling populer. Lalu tampil website      Tuban Scape memberikan tampilan website yang menarik, sehingga pengguna merasakan kenyamanan dan kemudahan dalam    menjelajahi destinasi Tuban.
+Website ini memiliki beberapa fungsi yaitu : Informasi Destinasi yang memberikan informasi rinci tentang tempat tempat wisata, termasuk deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan penilaian. Kemudian memudahkan pengguna untuk mencari wisata di Tuban yang paling populer. Lalu tampil website Tuban Scape memberikan tampilan website yang menarik, sehingga pengguna merasakan kenyamanan dan kemudahan dalam menjelajahi destinasi Tuban.
 
 ## 2.3. Kelas dan Karakteristik Pengguna
 
-Tuban Scape memiliki beberapa kelas pengguna yang mungkin menggunakan produk ini, berikut beserta                   karakteristiknya: 
+Tuban Scape memiliki beberapa kelas pengguna yang mungkin menggunakan produk ini, berikut beserta          karakteristiknya: 
 1. Wisatawan → Wisatawan menggunakan website untuk mencari informasi rinci tentang tempat-tempat wisata, termasuk deskripsi, lokasi, fasilitas, harga tiket masuk dan jam operasional,  ulasan, dan penilaian.
 2. Admin → Pihak yang bertanggung jawab atas pengelolaan website, seperti memperbarui fitur memperbarui tempat wisata dan memantau sistem website.
 
@@ -165,14 +165,14 @@ B. Software Pengembangan :
 
 ## 2.5. Kendala Desain dan Implementasi
 
-Proses pengujian website Tuban Scape masih berlangsung, dan kami sedang berupaya mengatasi beberapa kendala         yang ditemukan selama pengembangan. Beberapa fitur mungkin belum berfungsi sepenuhnya karena masih dalam tahap     pembuatan, tetapi kami berkomitmen untuk memastikan bahwa semuanya akan berjalan dengan baik seiring berjalannya    waktu. Selain itu, kami juga tengah melakukan penyesuaian tampilan pada website Tuban Scape untuk memastikan        tampilan yang lebih baik, lebih menarik, dan lebih mudah digunakan oleh pengguna. Kami berusaha keras untuk         menyempurnakan setiap aspeknya sebelum kami resmi meluncurkan website ini.
+Proses pengujian website Tuban Scape masih berlangsung, dan kami sedang berupaya mengatasi beberapa kendala yang ditemukan selama pengembangan. Beberapa fitur mungkin belum berfungsi sepenuhnya karena masih dalam tahappembuatan, tetapi kami berkomitmen untuk memastikan bahwa semuanya akan berjalan dengan baik seiring berjalannya waktu. Selain itu, kami juga tengah melakukan penyesuaian tampilan pada website Tuban Scape untuk memastikan tampilan yang lebih baik, lebih menarik, dan lebih mudah digunakan oleh pengguna. Kami berusaha keras untuk menyempurnakan setiap aspeknya sebelum kami resmi meluncurkan website ini.
 
 ## 2.6. Dokumentasi Pengguna
 
 Dokumen SKPL ini dibagi menjadi beberapa bagian, yaitu :
 1. Pendahuluan yang berisi gambaran umum dari seluruh dokumen SKPL. Yang berisikan tujuan penulisan dokumen, konvensi dokumen, pembaca yang dituju, lingkup produk, dan referensi
 3. Deskripsi umum yang berisi penjelasan website secara umum. Dijelaskan melalui deskripsi umum, fungsi website,  karakteristik pengguna, batasan, lingkungan operasi.
-4. Kebutuhan antarmuka eksternal merincikan deskripsi masukan dan keluaran website yang dispesifikasikan. Ada       berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka         komunikasi.
+4. Kebutuhan antarmuka eksternal merincikan deskripsi masukan dan keluaran website yang dispesifikasikan. Ada berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka komunikasi.
 5. Fungsi produk berisi fungsi utama dari website.
 6. Kebutuhan non-fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat  lunak.
 
