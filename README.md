@@ -389,7 +389,7 @@ Langkah-langkah Proses:
 3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
 4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
 5. Elemen "About Us": Elemen “section” dengan kelas "Hero" yang menjadi tanda bagian "About Us." berisi elemen "Container" yang mengelompokkan elemen "Hero-Content" berisi judul, teks, dan tombol yang mengajak pengunjung untuk mengunjungi halaman utama, dan "Hero-Image" berisi gambar yang menggambarkan keindahan Tubanscape.
-6. Elemen "Our Team": Elemen “section” dengan kelas "Our Team" berisi elemen "wrapper". yang mengelompokkan elemen <h1> untuk judul dan elemen "team" berisi daftar anggota tim. Setiap anggota tim ditandai oleh elemen "team-member" yang berisi gambar, nama, peran, dan deskripsi anggota tim.
+6. Elemen "Our Team": Elemen “section” dengan kelas "Our Team" berisi elemen "wrapper". yang mengelompokkan elemen h1 untuk judul dan elemen "team" berisi daftar anggota tim. Setiap anggota tim ditandai oleh elemen "team-member" yang berisi gambar, nama, peran, dan deskripsi anggota tim.
 7. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 8. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
