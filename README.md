@@ -407,17 +407,56 @@ Langkah-langkah Proses:
 
 ## 6.2. CSS
 
-
-
 ## 6.2.1. Style CSS
-
+  Struktur Style CSS terdiri dari beberapa blok yaitu :
+1. Blok Reser Gaya : Blok ini mengatur nol margin, nol padding, serta gaya default untuk elemen-elemen di halaman. Selain itu, mengatur jenis font dan efek scroll halus untuk elemen HTML.
+2. Blok Header : Blok ini mengatur tampilan kepala halaman, termasuk gambar latar belakang, judul, dan elemen pencarian. Lalu juga memiliki animasi fadeInUp yang diterapkan pada elemen header.
+3. Blok Searchbar : Blok ini mengatur tampilan kotak pencarian dengan elemen input dan tombol pencarian.
+4. Blok Navbar : Blok ini mengatur tampilan navbar dengan logo dan tautan menu.
+5. Blok Section : Blok ini mengatur tampilan bagian "Enjoy Your Dream Vacation" dengan judul dan teks.
+6. Blok Famous : Blok ini mengatur tampilan bagian "Famous Places" dengan gambar-gambar tempat.
+7. Blok berita : Blok ini mengatur tampilan bagian berita dengan gambar dan teks berita.
+8. Blok Hotel : Blok  mengatur stil untuk bagian header yang mencakup judul, teks, tombol, dan gambar. .Container adalah kelas yang menjaga konten dalam satu baris dan menyesuaikan lebarnya dengan perangkat pengguna. .Hero-Content menangani konten teks, seperti judul, paragraf, dan tombol. .Hero-Image mengatur gambar yang muncul di samping teks.
+9. Blok Gaya Footer : Blok ini mengimpor jenis huruf dari Google Fonts dan mengatur tampilan footer.
+10. Blok Footer : Blok ini mengatur tampilan footer, termasuk informasi kontak, tautan, dan ikon media sosial.
+11. Blok About : Blok ini mengatur tampilan bagian "About Us," termasuk konten dan gambar.
+12. Blok Wrapper : Blok ini mengatur tampilan bagian "Meet Our Team" dengan daftar anggota tim dan gambar.
 
 ## 6.2.2. Discover CSS
+Struktur Style CSS terdiri dari beberapa blok yaitu :
+1. Blok reser gaya : Blok ini mengatur nol margin, nol padding, serta gaya default untuk elemen-elemen di halaman. dan juga mengimpor jenis huruf 'Open Sans' dari Google Fonts.
+2. Blok Header (Navbar) : Blok ini mengatur tampilan navbar, termasuk gambar latar belakang di latar belakang navbar, logo, dan tautan menu.
+3. Blok Searchbar :  Blok ini mengatur tampilan kotak pencarian dengan ikon pencarian dan tombol pencarian yang responsif.
+4. Blok Recomended : Blok ini mengatur tampilan kotak rekomendasi yang mencakup teks dan gambar.
+5. Blok Budget dan Item : Blok ini mengatur tampilan elemen-elemen budget dan checkbox serta daftar pilihan.
+6. Blok Rating : Blok ini mengatur tampilan elemen rating dengan ikon bintang.
+7. Blok Isi Konten (Contect1. Content 2) :  Blok ini mengatur tampilan elemen-elemen konten yang mungkin berisi judul, ulasan, dan paragraf.
+8. Blok Button style : Blok ini mengatur tampilan tombol yang digunakan dalam konten.
+9. Blok Load More : Blok ini mengatur tampilan tombol "Load More" yang digunakan untuk memuat lebih banyak konten.
+10. Blok Footer : Blok ini mengatur tampilan footer, termasuk tautan, kolom, dan ikon media sosial.
 
 ## 6.2.3. GalleryStyle CSS
-
+1. Selektor Universal * menghapus margin dan padding bawaan, mengatur model kotak ke border-box, dan mengatur font default untuk semua elemen.
+Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan responsif. Pada kondisi tersebut, lebar elemen dengan kelas container dan gallery diatur menjadi 100%.
+2. Menghasilkan tautan yang terlihat seperti teks biasa tanpa dekorasi, berwarna hitam, dan berukuran 1 rem. Saat pengguna mengarahkan kursor mouse ke tautan, warna teks tautan akan berubah menjadi "burlywood"
+3. Menghasilkan navbar yang memiliki lebar 100% dengan lebar maksimum 1200px. Navbar ini akan berada di tengah halaman dan memiliki padding 10px 20px. Logo navbar akan memiliki ukuran font 1.5rem, font weight bold, dan warna hitam. Tautan di navbar akan ditampilkan secara horizontal dengan gap 8rem. Pada layar dengan lebar maksimum 1366px, 768px, dan 320px, tautan di navbar akan ditampilkan secara vertikal dengan gap 10px.
+4. Menghasilkan galeri yang memiliki lebar dan tinggi 100%. Galeri ini akan berada di tengah halaman dengan margin-top -100px dan margin-bottom -155px. Gambar-gambar di dalam galeri akan memiliki lebar dan tinggi 285px, dan margin 7px. Gambar-gambar dengan class landscape akan memiliki lebar 50% dari galeri, sedangkan gambar-gambar dengan class portrait akan memiliki tinggi penuh galeri. Semua gambar di dalam galeri akan memiliki object-fit cover, sehingga gambar akan mengisi penuh elemen yang menampungnya.
+5. Mengimpor font Google Poppins ke dalam halaman web dan menggunakan font tersebut untuk semua elemen di halaman web. Elemen header akan memiliki font-size 24px, text-align left, color hitam, font-weight bold, dan margin-bottom 15px.
+6. Menghasilkan rating bintang dengan warna abu-abu dan font-size 20px. Saat pengguna mengarahkan kursor mouse ke salah satu bintang, bintang tersebut akan berubah warna menjadi oranye.
+7. Menghasilkan peta dengan lebar 500px dan tinggi 280px. Peta ini akan berada di sebelah kanan halaman dengan margin-top -225px dan margin-right 5px. Peta ini juga akan memiliki tautan dengan warna abu-abu dan font-size 14px. Saat pengguna mengarahkan kursor mouse ke tautan tersebut, tautan tersebut akan berubah warna menjadi krem.
+8. Menghasilkan isi ulasan dengan font-size 16px, warna abu-abu, text-align justify (teks akan dirata kiri dan kanan), lebar maksimum 600px, margin-top 10px, dan margin-left 0.
+9. Menghasilkan garis pemisah dengan ketebalan 2px, warna abu-abu, margin-top 80px, dan margin-bottom 20px.
+10. Menghasilkan ikon dan teks ditampilkan dalam satu baris rata tengah secara vertical rata kanan secara horizontal. Ikon akan memiliki font-size 24px dan margin-right 5px berwarna biru. Sedangkan teks akan berwarna hitam.
+11. Kotak abu-abu muda dengan border melengkung menampilkan fasilitas wisata di web. Kotak punya padding dan margin 20 piksel. Judul abu-abu ukuran 24 piksel ada di atas kotak dengan margin bawah 20 piksel. Daftar fasilitas tanpa tanda ada di bawah judul. Tiap fasilitas punya ikon 30x30 piksel di kiri teks dengan margin kanan 10 piksel.
 
 ## 6.3. JavaScript
+1. Pertama, memilih semua elemen dengan tag "i" yang memiliki kelas "stars" dan menyimpannya dalam sebuah NodeList yang disebut "stars".
+2. Kemudian melakukan perulangan (loop) melalui NodeList "stars" dengan menggunakan metode forEach().
+3. Di dalam loop tersebut, menambahkan event listener pada setiap elemen "star" untuk mengidentifikasi saat elemen tersebut di-klik (event "click"). Ketika elemen bintang di-klik, sebuah fungsi dijalankan.
+4. Di dalam fungsi yang dijalankan ketika elemen bintang di-klik, melakukan loop kembali melalui NodeList "stars" menggunakan forEach(). Tujuannya adalah untuk menentukan elemen mana yang harus memiliki kelas "active" (mengaktifkannya) dan mana yang harus dihapuskan kelas "active" (menonaktifkannya) berdasarkan indeks (index1 dan index2).
+5. Jika indeks (index1) elemen saat di-klik lebih besar atau sama dengan indeks (index2) elemen dalam perulangan ini, maka menambahkan kelas "active" ke elemen tersebut, yang berarti elemen tersebut akan menjadi bintang yang diberi penanda "active". Sebaliknya, jika indeks elemen saat di-klik lebih kecil dari indeks elemen dalam perulangan ini, maka menghapus kelas "active" dari elemen tersebut.
+6. Lalu mendefinisikan perilaku tombol pencarian (button) dengan kelas "button". Saat tombol ditekan (mousedown), menambahkan kelas "Clicked" ke tombol, dan saat tombol dilepaskan (mouseup) akan menghapus kelas tersebut.
+7. Menangani elemen-elemen checkbox dengan kelas "item", dengan memilih semua elemen ini dan menambahkan event listener agar ketika salah satu elemen checkbox diklik, kelas "checked" ditambahkan atau dihapus.
 
 
 
