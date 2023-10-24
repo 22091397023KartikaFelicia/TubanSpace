@@ -95,6 +95,8 @@
 
 ## 1.1. Tujuan
 
+Indonesia menawarkan pengalaman wisata yang tak terlupakan bagi para pengunjung. Terdapat beragam wisata dengan pesona keindahan alam yang memukau, serta kaya akan warisan budaya. Hal tersebut menjadi salah satu alasan mengapa Indonesia menjadi tujuan destinasi wisata yang sangat populer di seluruh dunia. Sebuah destinasi wisata sukses karena berhasil menonjolkan identitas yang membuatnya berbeda sehingga lebih dikenal oleh wisatawan. 
+
 
 
 ## 1.2. Konveksi Dokumen
