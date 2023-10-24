@@ -153,14 +153,29 @@ a:hover {
 }
 
 /* Bagian Samping */
+.Filter-by{
+    color: var(--Gray-1, #333);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.36px;
+    margin-left: 3vh;
+    margin-bottom: 3vh;
+}
+.Layout{
+    float: left;
+    margin-top: 20vh;
+    margin-left: 5vh;
+    margin-right: 3vh;
+}
 .FB{
     width: 295px;
     height: 293px;
     flex-shrink: 0;
     border-radius: 6px;
     border: 1px solid var(--Gray-5, #E0E0E0);
-    background: #FFF;
 }
+
 .Budget{
     border-radius: 6px 6px 0px 0px;
     border: 1px solid var(--Gray-5, #E0E0E0);
@@ -170,10 +185,12 @@ a:hover {
     padding: 18px;
     align-items: flex-start;
     gap: 10px;
+    font-size: 16px;
+    font-weight: 500;
 }
 .list-items{
     position: relative;
-    margin-top: 15px;
+    margin-top: 10px;
     border-radius: 8px;
     padding: 16px;
 }
@@ -223,7 +240,57 @@ a:hover {
     display: flex;
     justify-content: space-around;
 }
+
+/* rating */
+.rating{
+    margin-top: 5vh;
+    width: 295px;
+    height: 170px;
+    border-radius: 6px;
+    border: 1px solid var(--Gray-5, #E0E0E0);
+}
+.rating-text{
+    display: flex;
+    width: 295px;
+    padding: 18px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 6px 6px 0px 0px;
+    border: 1px solid var(--Gray-5, #E0E0E0);
+    background: var(--Gray-6, #F2F2F2);
+}
+.showr{
+    margin-top: 2.5vh;
+    margin-bottom: 1.5vh;
+    margin-left: 3vh;
+    color: var(--Gray-2, #4F4F4F);
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.28px;
+}
+.flex-container {
+    border: 1px solid var(--Gray-5, #E0E0E0);
+    display: flex;
+    flex-direction: row; 
+  }
+  
+  .flex-container > div {
+    width: 70px;
+    height: 25px;
+    margin: 10px;
+    font-size: 16px;
+    text-align: center;
+    background: var(--Gray-6, #F2F2F2);
+  }
+.flex-container i{
+    color: #ff9c1a;
+}
+
 /* Content */
+.Position{
+    float: right;
+    margin-right: 6px;
+}
 .Content1, .Content2{
     margin-top: 15vh;
     width: 915px;
@@ -348,8 +415,9 @@ a:hover {
 
 /* Load More */
 .lm{
-    margin-top: 10vh;
+    margin-top: 68rem;
     margin-bottom: 10vh;
+    align-items: center;
 }
 .load-more{
     display: block;
@@ -370,21 +438,22 @@ a:hover {
 }
 
 .FooterP{
-    width: 100%;
+    width: 100%;    
 }
 
 /* Footer */
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 footer{
-	line-height: 1;
 	font-family: 'Poppins', sans-serif;
+    bottom: 0;
+    
 }
 .footer-content{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 7vh;
+    margin-top: 20vh;
 }
 .footer a{
     color: black;
