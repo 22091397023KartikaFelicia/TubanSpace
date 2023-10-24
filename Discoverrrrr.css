@@ -328,9 +328,9 @@ a:hover {
     font-size: 13px;
     margin-top: 2vh;
 }
-/* .Review .text-box p{
-    /* font-weight: 400; */
-} */
+.Review .text-box p{
+    font-weight: 400;
+} 
 /* Button Style */
 .btn{
     margin-top: 4vh;
