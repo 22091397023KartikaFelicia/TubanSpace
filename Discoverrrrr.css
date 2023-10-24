@@ -296,7 +296,6 @@ a:hover {
     margin-top: 15vh;
     width: 915px;
     height: 240px;
-    flex-shrink: 0;
     border-radius: 5px;
     border: 1px solid var(--Gray-5, #E0E0E0);
     background: #FFF;
