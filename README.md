@@ -93,7 +93,7 @@
 
 </div>
 
-## 1.1. Tujuan
+# 1.1. Tujuan
 
 Indonesia menawarkan pengalaman wisata yang tak terlupakan bagi para pengunjung. Terdapat beragam wisata dengan     pesona keindahan alam yang memukau, serta kaya akan warisan budaya. Hal tersebut menjadi salah satu alasan mengapa Indonesia menjadi tujuan destinasi wisata yang sangat populer di seluruh dunia. Sebuah destinasi wisata sukses     karena berhasil menonjolkan identitas yang membuatnya berbeda sehingga lebih dikenal oleh wisatawan. Untuk itu, kami menciptakan website “Tuban Scape” yang bertujuan untuk memberikan informasi dan pengalaman kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur. Website ini berfungsi sebagai platform yang luar biasa untuk mempromosikan potensi pariwisata dan budaya Kabupaten Tuban, Jawa Timur, kepada dunia.
 
@@ -365,7 +365,7 @@ Langkah-langkah Proses:
 13. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
-# 6.1.2. Discover HTML
+## 6.1.2. Discover HTML
 
 1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>.
 2. Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
@@ -382,7 +382,7 @@ Langkah-langkah Proses:
    - Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
 5. Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
 
-# 6.1.3. About HTML
+## 6.1.3. About HTML
 
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
@@ -393,7 +393,7 @@ Langkah-langkah Proses:
 7. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 8. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
-# 6.1.4. Gallery HTML
+## 6.1.4. Gallery HTML
 
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
