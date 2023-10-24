@@ -97,6 +97,10 @@
 
 Indonesia menawarkan pengalaman wisata yang tak terlupakan bagi para pengunjung. Terdapat beragam wisata dengan pesona keindahan alam yang memukau, serta kaya akan warisan budaya. Hal tersebut menjadi salah satu alasan mengapa Indonesia menjadi tujuan destinasi wisata yang sangat populer di seluruh dunia. Sebuah destinasi wisata sukses karena berhasil menonjolkan identitas yang membuatnya berbeda sehingga lebih dikenal oleh wisatawan. 
 
+Untuk itu, kami menciptakan website “Tuban Scape” yang bertujuan untuk memberikan informasi dan pengalaman kepada pengguna seputar destinasi dan kegiatan wisata di Kabupaten Tuban, Jawa Timur. Website ini berfungsi sebagai platform yang luar biasa untuk mempromosikan potensi pariwisata dan budaya Kabupaten Tuban, Jawa Timur, kepada dunia. Letak kota Tuban yang sangat strategis berada di jalur utama pantura membuatnya sangat tepat jika dijadikan sebagai rujukan tempat wisata. Dengan adanya website ini, diharapkan pengguna dapat merencanakan perjalanan wisata mereka di Tuban dengan optimal, mudah dan menyenangkan.
+
+
+
 
 
 ## 1.2. Konveksi Dokumen
