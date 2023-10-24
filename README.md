@@ -49,13 +49,13 @@
 - [4.1.3. Fitur About](#413-Fitur-About)
 
 - [4.2. Fitur Sistem](#42-Fitur-Sistem)
-- [4.2.1. Fitur Pencarian](421-Fitur-Pencarian)
+- [4.2.1. Fitur Pencarian](#421-Fitur-Pencarian)
 - [4.2.2. Fitur Database Destinasi](#422-Fitur-Database-Destinasi)
 - [4.2.3. Fitur Rekomendasi](#423-Fitur-Rekomendasi)
 - [4.2.4. Fitur Sistem Ulasan](#424-Fitur-Sistem-Ulasan)
 - [4.2.5. Fitur Integrasi Media Sosial](425-Fitur-Integrasi-Media-Sosial)
 - [4.2.6. Fitur Pengelolaan Gambar](#426-Fitur-Pengelolaan-Gambar)
-- [4.2.7. Fitur Integrasi Google Maps](#427-Fitur-Integrasi-Google)
+- [4.2.7. Fitur Integrasi Google Maps](#427-Fitur-Integrasi-Google-Maps)
 
 - [BAB 5](#BAB-5)
 - [PERSYARATAN FUNGSIONAL](#PERSYARATAN-FUNGSIONAL)
