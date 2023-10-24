@@ -29,9 +29,9 @@
 - [2.2. Fungsi Produk](#22-Fungsi-Produk)
 - [2.3. Kelas dan Karakteristik Pengguna](#23-Kelas-dan-Karakteristik-Pengguna)
 - [2.4. Lingkungan Pengembangan](#24-Lingkungan-Pengembangan)
-- [2.5. Kendala Desain dan Implementasi](#Kendala-Desain-dan-Implementasi)
-- [2.6. Dokumentasi Pengguna](#Dokumentasi-Pengguna)
-- [2.7. Asumsi dan Ketergantungan](#Asumsi-dan-Ketergantungan)
+- [2.5. Kendala Desain dan Implementasi](#25-Kendala-Desain-dan-Implementasi)
+- [2.6. Dokumentasi Pengguna](#26-Dokumentasi-Pengguna)
+- [2.7. Asumsi dan Ketergantungan](#27-Asumsi-dan-Ketergantungan)
 
 - [BAB 3](#BAB-3)
 - [PERSYARATAN ANTARMUKA](#PERSYARATAN-ANTARMUKA)
