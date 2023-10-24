@@ -365,7 +365,7 @@ Langkah-langkah Proses:
 13. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
-# 6.1.2. Discover HTML
+## 6.1.2. Discover HTML
 
 1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>.
 2. Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
@@ -382,7 +382,7 @@ Langkah-langkah Proses:
    - Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
 5. Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
 
-# 6.1.3. About HTML
+## 6.1.3. About HTML
 
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
@@ -393,7 +393,7 @@ Langkah-langkah Proses:
 7. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 8. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
-# 6.1.4. Gallery HTML
+## 6.1.4. Gallery HTML
 
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
@@ -403,7 +403,7 @@ Langkah-langkah Proses:
 6. Elemen <div class="rating-box" : Bagian ini digunakan untuk menampilkan informasi dan peringkat dari objek wisata Elemen h2 digunakan untuk menampilkan judul objek wisata tersebut. Elemen div class="stars" dan i digunakan untuk menampilkan bintang-bintang peringkat. Elemen div class="paragraph" dan p digunakan untuk menampilkan deskripsi objek wisata.
 7. Elemen div class="map-container" : Bagian ini berisi peta dan lokasi Mata Air Sungai Krawak. Elemen iframe digunakan untuk menampilkan peta Google Maps dengan berbagai atribut seperti src, width, height, allowfullscreen, loading, dan referrerpolicy. Selain itu, ada juga elemen a yang menampilkan tautan ke peta Google Maps dengan atribut href dan target. Elemen i digunakan untuk menampilkan ikon penanda lokasi, dan teks "Lokasi" memberikan informasi geografis lokasi tersebut.
 8. Elemen div class="ticket" : Bagian ini berisi informasi tentang tiket masuk dan jam operasional objek wisata. Elemen i digunakan untuk menampilkan ikon tiket dan jam. Teks "Harga Tiket Masuk" dan "Jam Operasional" menjelaskan biaya masuk dan jam buka objek wisata.
-9. Elemen div class="facilities" : Bagian ini menampilkan fasilitas-fasilitas wisata. Ini terdiri dari elemen <h3> untuk judul dan elemen ul untuk daftar fasilitas. Setiap elemen li berisi elemen img untuk menampilkan ikon dan teks yang menjelaskan fasilitas tersebut.
+9. Elemen div class="facilities" : Bagian ini menampilkan fasilitas-fasilitas wisata. Ini terdiri dari elemen h3 untuk judul dan elemen ul untuk daftar fasilitas. Setiap elemen li berisi elemen img untuk menampilkan ikon dan teks yang menjelaskan fasilitas tersebut.
 10. Elemen div class="customer-review" : Bagian ini berisi ulasan dari pengunjung. Elemen h3 digunakan untuk menampilkan judul, dan elemen ul berisi daftar ulasan. Setiap elemen li berisi elemen-elemen seperti div class="profile", img, span, div class="stars", dan p, yang digunakan untuk menampilkan profil pengunjung, gambar, nama, peringkat dalam bentuk bintang, dan komentar dari pengunjung.
 11. Elemen a href="index.html" class="back-button : Ini adalah tautan yang mengarahkan ke halaman "index.html." Elemen i class="fa-solid fa-arrow-left" digunakan untuk menampilkan ikon panah ke kiri. Teks "Kembali" adalah label tombol yang menandakan fungsi tautan ini, yaitu untuk kembali ke halaman sebelumnya.
 12. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
