@@ -350,60 +350,60 @@ Langkah-langkah Proses:
 
 ## 6.1.1. Index HTML
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
-2.Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
-3.Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
-4.Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
-5.Elemen Header: Di dalam elemen header, kita memiliki kelas "header-content" yang berisi judul dan subjudul.
-6.Elemen Search Bar: terdapat kelas "searchbar" menandakan bagian dari elemen search bar yang digunakan untuk mencari informasi tentang wisata di halaman web.
-7.Elemen "Vacation": Elemen "section" dengan kelas "vacation" menandai bagian berita tentang liburan. Elemen "title" mengelompokkan elemen-elemen yang berkaitan dengan judul berita. Judul berita ditampilkan dengan elemen "h1" yang mengindikasikan berita yang menginspirasi perjalanan.
-8.Elemen "Famous": Elemen "section" dengan kelas "famous" menandai bagian "famous" yang berisi daftar tempat terkenal di Tuban. Di dalamnya, terdapat elemen "box-famous" yang berisi elemen-elemen seperti gambar tempat terkenal, tautan, dan judul destinasi wisata.
-9.Elemen "Berita": Elemen "section" dengan kelas "vacation" menandai bagian berita liburan. Elemen "title" mengelompokkan elemen-elemen berita. Judul berita ditampilkan dengan elemen "h1," yang mengindikasikan berita yang menginspirasi perjalanan.
-10.Elemen "Berita": Elemen "section" dengan kelas "berita" menandai bagian berita yang berisi elemen "containt." Setiap berita terdiri dari elemen "boc" yang berisi elemen gambar, tautan, judul, dan teks berita.
-11.Elemen "Recommended Hotel": Elemen "section" dengan kelas "Hotel" menandai bagian rekomendasi hotel. Elemen "title" mengelompokkan elemen dengan judul "Recommended Hotel."
-12.Elemen "Recommended Hotel": Elemen "section" dengan kelas "hotel" menandai bagian rekomendasi hotel yang berisi elemen "container-hotel." Di dalam "container-hotel," terdapat elemen "box-hotel" yang berisi informasi tentang setiap hotel, termasuk gambar, tautan, dan judul hotel.
-13.Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
-14.Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
+2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
+3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
+4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
+5. Elemen Header: Di dalam elemen header, kita memiliki kelas "header-content" yang berisi judul dan subjudul.
+6. Elemen Search Bar: terdapat kelas "searchbar" menandakan bagian dari elemen search bar yang digunakan untuk mencari informasi tentang wisata di halaman web.
+7. Elemen "Vacation": Elemen "section" dengan kelas "vacation" menandai bagian berita tentang liburan. Elemen "title" mengelompokkan elemen-elemen yang berkaitan dengan judul berita. Judul berita ditampilkan dengan elemen "h1" yang mengindikasikan berita yang menginspirasi perjalanan.
+8. Elemen "Famous": Elemen "section" dengan kelas "famous" menandai bagian "famous" yang berisi daftar tempat terkenal di Tuban. Di dalamnya, terdapat elemen "box-famous" yang berisi elemen-elemen seperti gambar tempat terkenal, tautan, dan judul destinasi wisata.
+9. Elemen "Berita": Elemen "section" dengan kelas "vacation" menandai bagian berita liburan. Elemen "title" mengelompokkan elemen-elemen berita. Judul berita ditampilkan dengan elemen "h1," yang mengindikasikan berita yang menginspirasi perjalanan.
+10. Elemen "Berita": Elemen "section" dengan kelas "berita" menandai bagian berita yang berisi elemen "containt." Setiap berita terdiri dari elemen "boc" yang berisi elemen gambar, tautan, judul, dan teks berita.
+11. Elemen "Recommended Hotel": Elemen "section" dengan kelas "Hotel" menandai bagian rekomendasi hotel. Elemen "title" mengelompokkan elemen dengan judul "Recommended Hotel."
+12. Elemen "Recommended Hotel": Elemen "section" dengan kelas "hotel" menandai bagian rekomendasi hotel yang berisi elemen "container-hotel." Di dalam "container-hotel," terdapat elemen "box-hotel" yang berisi informasi tentang setiap hotel, termasuk gambar, tautan, dan judul hotel.
+13. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
+14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 # 6.1.2. Discover HTML
-1.Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>.
-2.Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
+1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>. 
+2. Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
     - Pengaturan karakter : <meta charset="UTF-8"> untuk mengatur karakter encoding ke UTF-8.
     - Viewport : <meta name="viewport" content="width=device-width, initial-scale=1.0"> untuk mengoptimalkan tampilan pada perangkat mobile.
     - Referensi CSS : merujuk ke tiga berkas CSS eksternal melalui elemen <link>.
     - Referensi JavaScript: Anda merujuk ke jQuery dan script.js melalui elemen <script>.
     - Referensi ikon : menggunakan ikon dari Font Awesome dan Unicons.
-3.Bagian body adalah tempat untuk konten yang akan ditampilkan di halaman web. Beberapa elemen di sini adalah:
+3. Bagian body adalah tempat untuk konten yang akan ditampilkan di halaman web. Beberapa elemen di sini adalah:
     - Navbar: sebuah navigasi di bagian atas halaman web dengan logo "TUBANSCAPE" dan tautan menu seperti "Home," "Discover," dan "About."
     - Searchbar: Di bawah navbar, ada sebuah kotak pencarian dengan ikon dan tombol "Search."
     - Rekomendasi: bagian untuk mengurutkan hasil. Ada teks "Sort By" dan "Recommended."
     - Filter dan Kategori: beberapa filter yang memungkinkan pengguna untuk menyaring hasil berdasarkan kategori wisata seperti "Air Terjun," "Gunung," dan lain-lain.
     - Konten Wisata: berisi informasi tentang tempat wisata, dengan gambar, judul, rating, deskripsi, dan tautan "See Availability."
-4.Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
+4. Footer: Di bagian bawah halaman, memiliki bagian footer yang berisi tautan ke halaman terkait seperti "About Us," tautan ke situs pemesanan hotel, dan tautan ke media sosial.
 
 # 6.1.3. About HTML
-1.Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
-2.Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
-3.Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
-4.Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
-5.Elemen "About Us": Elemen “section” dengan kelas "Hero" yang menjadi tanda bagian "About Us." berisi elemen "Container" yang mengelompokkan elemen "Hero-Content" berisi judul, teks, dan tombol yang mengajak pengunjung untuk mengunjungi halaman utama, dan "Hero-Image" berisi gambar yang menggambarkan keindahan Tubanscape.
-6.Elemen "Our Team": Elemen “section” dengan kelas "Our Team" berisi elemen "wrapper". yang mengelompokkan elemen <h1> untuk judul dan elemen "team" berisi daftar anggota tim. Setiap anggota tim ditandai oleh elemen "team-member" yang berisi gambar, nama, peran, dan deskripsi anggota tim.
-7.Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
-8.Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
+1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
+2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
+3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
+4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
+5. Elemen "About Us": Elemen “section” dengan kelas "Hero" yang menjadi tanda bagian "About Us." berisi elemen "Container" yang mengelompokkan elemen "Hero-Content" berisi judul, teks, dan tombol yang mengajak pengunjung untuk mengunjungi halaman utama, dan "Hero-Image" berisi gambar yang menggambarkan keindahan Tubanscape.
+6. Elemen "Our Team": Elemen “section” dengan kelas "Our Team" berisi elemen "wrapper". yang mengelompokkan elemen <h1> untuk judul dan elemen "team" berisi daftar anggota tim. Setiap anggota tim ditandai oleh elemen "team-member" yang berisi gambar, nama, peran, dan deskripsi anggota tim.
+7. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
+8. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 # 6.1.4. Gallery HTML
-1.Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
-2.Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
-3.Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
-4.Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
-5.Elemen `<section class="gallery"> :  bagian dari halaman web yang menandai galeri gambar. Ini terdiri dari elemen `<div class="container">` yang berisi elemen-elemen `<div class="box-gallery">`. Setiap kotak tersebut berisi gambar yang ditandai oleh elemen `<img>`. Gambar-gambar tersebut memiliki kelas, yaitu "portrait" atau "landscape," tergantung pada orientasinya.
-6.Elemen `<div class="rating-box"> : Bagian ini digunakan untuk menampilkan informasi dan peringkat dari objek wisata Elemen `<h2>` digunakan untuk menampilkan judul objek wisata tersebut. Elemen `<div class="stars">` dan `<i>` digunakan untuk menampilkan bintang-bintang peringkat. Elemen `<div class="paragraph">` dan `<p>` digunakan untuk menampilkan deskripsi objek wisata.
-7.Elemen `<div class="map-container"> : Bagian ini berisi peta dan lokasi Mata Air Sungai Krawak. Elemen `<iframe>` digunakan untuk menampilkan peta Google Maps dengan berbagai atribut seperti `src`, `width`, `height`, `allowfullscreen`, `loading`, dan `referrerpolicy`. Selain itu, ada juga elemen `<a>` yang menampilkan tautan ke peta Google Maps dengan atribut `href` dan `target`. Elemen `<i>` digunakan untuk menampilkan ikon penanda lokasi, dan teks "Lokasi" memberikan informasi geografis lokasi tersebut.
-8.Elemen `<div class="ticket"> : Bagian ini berisi informasi tentang tiket masuk dan jam operasional objek wisata. Elemen `<i>` digunakan untuk menampilkan ikon tiket dan jam. Teks "Harga Tiket Masuk" dan "Jam Operasional" menjelaskan biaya masuk dan jam buka objek wisata.
-9.Elemen `<div class="facilities"> : Bagian ini menampilkan fasilitas-fasilitas wisata. Ini terdiri dari elemen `<h3>` untuk judul dan elemen `<ul>` untuk daftar fasilitas. Setiap elemen `<li>` berisi elemen `<img>` untuk menampilkan ikon dan teks yang menjelaskan fasilitas tersebut.
-10.Elemen `<div class="customer-review"> : Bagian ini berisi ulasan dari pengunjung. Elemen `<h3>` digunakan untuk menampilkan judul, dan elemen `<ul>` berisi daftar ulasan. Setiap elemen `<li>` berisi elemen-elemen seperti `<div class="profile">`, `<img>`, `<span>`, `<div class="stars">`, dan `<p>`, yang digunakan untuk menampilkan profil pengunjung, gambar, nama, peringkat dalam bentuk bintang, dan komentar dari pengunjung.
-11.Elemen `<a href="index.html" class="back-button"> : Ini adalah tautan yang mengarahkan ke halaman "index.html." Elemen `<i class="fa-solid fa-arrow-left">` digunakan untuk menampilkan ikon panah ke kiri. Teks "Kembali" adalah label tombol yang menandakan fungsi tautan ini, yaitu untuk kembali ke halaman sebelumnya.
-12.Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
-13.Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
+1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
+2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
+3. Bagian 'Body': Bagian ini adalah area utama konten halaman web dan termasuk elemen-elemen seperti navigasi (navbar), judul halaman, dan konten lainnya.
+4. Elemen Navbar: Bagian navigasi halaman web terdiri dari judul, logo, dan tautan ke halaman lain seperti "Home," "Discover," dan "About."
+5. Elemen `<section class="gallery"> :  bagian dari halaman web yang menandai galeri gambar. Ini terdiri dari elemen `<div class="container">` yang berisi elemen-elemen `<div class="box-gallery">`. Setiap kotak tersebut berisi gambar yang ditandai oleh elemen `<img>`. Gambar-gambar tersebut memiliki kelas, yaitu "portrait" atau "landscape," tergantung pada orientasinya.
+6. Elemen `<div class="rating-box"> : Bagian ini digunakan untuk menampilkan informasi dan peringkat dari objek wisata Elemen `<h2>` digunakan untuk menampilkan judul objek wisata tersebut. Elemen `<div class="stars">` dan `<i>` digunakan untuk menampilkan bintang-bintang peringkat. Elemen `<div class="paragraph">` dan `<p>` digunakan untuk menampilkan deskripsi objek wisata.
+7. Elemen `<div class="map-container"> : Bagian ini berisi peta dan lokasi Mata Air Sungai Krawak. Elemen `<iframe>` digunakan untuk menampilkan peta Google Maps dengan berbagai atribut seperti `src`, `width`, `height`, `allowfullscreen`, `loading`, dan `referrerpolicy`. Selain itu, ada juga elemen `<a>` yang menampilkan tautan ke peta Google Maps dengan atribut `href` dan `target`. Elemen `<i>` digunakan untuk menampilkan ikon penanda lokasi, dan teks "Lokasi" memberikan informasi geografis lokasi tersebut.
+8. Elemen `<div class="ticket"> : Bagian ini berisi informasi tentang tiket masuk dan jam operasional objek wisata. Elemen `<i>` digunakan untuk menampilkan ikon tiket dan jam. Teks "Harga Tiket Masuk" dan "Jam Operasional" menjelaskan biaya masuk dan jam buka objek wisata.
+9. Elemen `<div class="facilities"> : Bagian ini menampilkan fasilitas-fasilitas wisata. Ini terdiri dari elemen `<h3>` untuk judul dan elemen `<ul>` untuk daftar fasilitas. Setiap elemen `<li>` berisi elemen `<img>` untuk menampilkan ikon dan teks yang menjelaskan fasilitas tersebut.
+10. Elemen `<div class="customer-review"> : Bagian ini berisi ulasan dari pengunjung. Elemen `<h3>` digunakan untuk menampilkan judul, dan elemen `<ul>` berisi daftar ulasan. Setiap elemen `<li>` berisi elemen-elemen seperti `<div class="profile">`, `<img>`, `<span>`, `<div class="stars">`, dan `<p>`, yang digunakan untuk menampilkan profil pengunjung, gambar, nama, peringkat dalam bentuk bintang, dan komentar dari pengunjung.
+11. Elemen `<a href="index.html" class="back-button"> : Ini adalah tautan yang mengarahkan ke halaman "index.html." Elemen `<i class="fa-solid fa-arrow-left">` digunakan untuk menampilkan ikon panah ke kiri. Teks "Kembali" adalah label tombol yang menandakan fungsi tautan ini, yaitu untuk kembali ke halaman sebelumnya.
+12. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
+13. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
 ## 6.2. CSS
 
