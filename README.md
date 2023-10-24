@@ -55,7 +55,7 @@
 - [4.2.4. Fitur Sistem Ulasan](#424-Fitur-Sistem-Ulasan)
 - [4.2.5. Fitur Integrasi Media Sosial](425-Fitur-Integrasi-Media-Sosial)
 - [4.2.6. Fitur Pengelolaan Gambar](#426-Fitur-Pengelolaan-Gambar)
-- [4.2.7. Fitur Integrasi Google Maps](#427-Fitur-Integrasi Google)
+- [4.2.7. Fitur Integrasi Google Maps](#427-Fitur-Integrasi-Google)
 
 - 
 
@@ -320,7 +320,9 @@ Langkah-langkah Proses:
 
 </div>
 
-## 6.1. Index HTML
+## 6.1. HTML
+
+## 6.1.1. Index HTML
 
 1. Deklarasi Dokumen HTML5: Ini adalah awal dokumen HTML, yang mengindikasikan penggunaan HTML5 dan bahasa Inggris.
 2. Bagian 'Head': Bagian ini berisi elemen-elemen yang mendukung karakter internasional, mengatur mode kompatibilitas, menyesuaikan tampilan halaman web, dan menautkan ke file CSS dan Font Awesome.
@@ -337,6 +339,28 @@ Langkah-langkah Proses:
 13. Elemen "Footer": Elemen "section" menandai bagian footer yang dipisahkan dari konten utama. Elemen "footer-content" mengelompokkan elemen yang berisi judul dan teks tentang eksplorasi Tuban dengan "My Dream Place."
 14. Elemen "Footer": Elemen "footer" juga mencakup elemen "foot-container," "row-foot," dan "footer-col" yang mengatur tautan dan informasi tambahan ke destinasi wisata, tautan bantuan atau informasi, tautan aplikasi hotel, serta tautan ke media sosial seperti Facebook, Twitter, Instagram, dan LinkedIn.
 
+# 6.1.2. Discover HTML
+
+
+# 6.1.3. About HTML
+
+
+# 6.1.4. Gallery HTML
+
+
+## 6.2. CSS
+
+
+
+## 6.2.1. Style CSS
+
+
+## 6.2.2. Discover CSS
+
+## 6.2.3. GalleryStyle CSS
+
+
+## 6.3. JavaScript
 
 
 
