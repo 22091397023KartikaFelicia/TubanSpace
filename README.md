@@ -57,7 +57,32 @@
 - [4.2.6. Fitur Pengelolaan Gambar](#426-Fitur-Pengelolaan-Gambar)
 - [4.2.7. Fitur Integrasi Google Maps](#427-Fitur-Integrasi-Google)
 
-- 
+- [BAB 5](#BAB-5)
+- [PERSYARATAN FUNGSIONAL](#PERSYARATAN-FUNGSIONAL)
+
+- [5.1. Use Case](#51-Use-Case)
+- [5.2. Flowchart](#52-Flowchart)
+- [5.2.1. Flowchart User](#521-Flowchart-User)
+- [5.2.2. Flowchart Admin](#522-Flowchart-Admin)
+- [5.3. Persyaratan Perfoma](#53-Persyaratan-Perfoma)
+- [5.3.1. Persyaratan Hardware](#531-Persyaratan-Hardware)
+- [5.3.2. Persyaratan Software](#532-Persyaratan-Software)
+- [5.4. Persyaratan Keamanan Pengguna](#54-Persyaratan-Keamanan-Pengguna)
+- [5.5. Persyaratan Keamanan Website](#55-Persyaratan-Keamanan-Website)
+- [5.6. Proses Bisnis](#56-Proses-Bisnis)
+
+- [BAB 6](#BAB-6)
+- [PENJELASAN HTML DAN CSS](#PENJELASAN-HTML-DAN-CSS)
+
+- [6.1. HTML](61-HTML)
+- [6.1.1. Index HTML](#611-Index-HTML)
+- [6.1.2. Discover HTML](#612-Discover-HTML)
+- [6.1.3. About HTML](#613-About-HTML)
+- [6.1.4. Gallery HTML](#614-Gallery-HTML)
+- [6.2. CSS](#62-CSS)
+- [6.2.1. Style CSS](#621-Style-CSS)
+- [6.2.2. Discover CSS](#622-Discover-CSS)
+- [6.2.3. Gallery CSS](#623-Gallery-CSS)
 
 <div align="center">
   
@@ -284,11 +309,11 @@ Admin membuat website Tuban Scape dengan melakukan beberapa hal , yaitu memantau
 - Sistem Operasi: Website Tubanscape dapat diakses pada Windows 7 ke atas, MacOS 10.12 ke atas, iOS 6 ke atas, Android 6 ke atas, dan sistem operasi lain yang kompatibel.
 - Browser Web: Pengguna memerlukan browser web yang kompatibel untuk mengakses website TubanScape. Browser yang digunakan seperti Google Chrome, Mozilla Firefox, Apple Safari, dan Microsoft Edge.
 
-## 5.3.3. Persyaratan Keamanan Pengguna
+## 5.4. Persyaratan Keamanan Pengguna
 
 Data pengguna disimpan pada server yang aman dan dilindungi dengan enkripsi. data tersebut berupa nama, alamat email, dan nomor telepon. data tersebut harus dilindungi dari akses yang tidak sah. 
 
-## 5.3.4. Persyaratan Keamanan Website
+## 5.5. Persyaratan Keamanan Website
 
 - Menggunakan protokol HTTPS dan sertifikat SSL yang valid untuk menjamin integritas dan kerahasiaan data yang dikirimkan antara web dan pengguna.
 - Menggunakan mekanisme enkripsi untuk melindungi data informasi pribadi pengguna dari pencurian atau manipulasi oleh pihak yang tidak bertanggung jawab.
@@ -296,7 +321,7 @@ Data pengguna disimpan pada server yang aman dan dilindungi dengan enkripsi. dat
 - Menggunakan mekanisme pembaruan dan pemeliharaan yang rutin untuk memastikan bahwa web selalu menggunakan versi terbaru dan bebas dari bug atau celah keamanan.
 
 
-## 5.4. Proses Bisnis
+## 5.6. Proses Bisnis
 
 Proses Bisnis pada pengelolaan konten wisata di Website Tubanscape bertujuan untuk mengumpulkan, mengelola, dan menyajikan informasi lengkap dan menarik tentang destinasi wisata di Tuban kepada pengguna. Informasi ini mencakup deskripsi destinasi, foto, ulasan, harga tiket, jam buka, fasilitas, dan detail lainnya. berikut Entitas yang Terlibat:
 1. Pengguna (User): Pengguna adalah individu yang mengakses dan berinteraksi dengan website Tubanscape. Mereka mencari informasi tentang destinasi wisata dan membaca ulasan pengguna lainnya.
