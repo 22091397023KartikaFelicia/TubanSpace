@@ -236,30 +236,24 @@ Fitur ini menyajikan peta interaktif yang memungkinkan pengguna untuk melakukan 
 
 ![file_2023-09-09_16 08 23](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/8ecc0037-5949-4f41-85b2-d186d88d1fda)
 
+Menggambarkan interaksi antara sistem website “Tuban Scape” dengan 2 aktor yaitu: admin dan user (pengunjung). aktor-aktor tersebut tentunya memiliki tugas yang berbeda. Interaksi antara admin dan pengunjung dengan website "Tuban Scape" menciptakan pengalaman yang lengkap, di mana admin bertanggung jawab untuk mengelola informasi dan mengelola konten tentang wisata di Tuban, sementara pengunjung dapat mengakses dan berinteraksi dengan informasi yang disediakan untuk merencanakan pengalaman wisata mereka di Kabupaten Tuban.
+
 ## 5.2. Flowchart User
 
+![image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/flowchart%20user.png)
+
+## 5.3. Flowchart Admin
+
+![image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/flowchart%20admin.png)
 
 
 
 
 
-**2. LAMPIRAN**
-   
-   **A. Use Case**
-   
-![file_2023-09-09_16 08 23](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/8ecc0037-5949-4f41-85b2-d186d88d1fda)
 
-Penjelasan: 
 
-Menggambarkan interaksi antara sistem website “Tuban Scape” dengan 2 aktor yaitu: admin dan user (pengunjung). aktor-aktor tersebut tentunya memiliki tugas yang berbeda. Interaksi antara admin dan pengunjung dengan website "Tuban Scape" menciptakan pengalaman yang lengkap, di mana admin bertanggung jawab untuk mengelola informasi dan mengelola konten tentang wisata di Tuban, sementara pengunjung dapat mengakses dan berinteraksi dengan informasi yang disediakan untuk merencanakan pengalaman wisata mereka di Kabupaten Tuban.
 
 
    **B. Flowchart**
 
 ![image](https://github.com/22091397023KartikaFelicia/TubanSpace/assets/124429174/df50dcfd-8e4c-4c51-8e82-cfcfb22921fd)
-
-
-
-
-
-
