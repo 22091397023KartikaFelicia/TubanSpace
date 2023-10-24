@@ -464,6 +464,4 @@ Media Query memberikan kondisi berdasarkan lebar layar untuk membuat tampilan re
 4. Di dalam fungsi yang dijalankan ketika elemen bintang di-klik, melakukan loop kembali melalui NodeList "stars" menggunakan forEach(). Tujuannya adalah untuk menentukan elemen mana yang harus memiliki kelas "active" (mengaktifkannya) dan mana yang harus dihapuskan kelas "active" (menonaktifkannya) berdasarkan indeks (index1 dan index2).
 5. Jika indeks (index1) elemen saat di-klik lebih besar atau sama dengan indeks (index2) elemen dalam perulangan ini, maka menambahkan kelas "active" ke elemen tersebut, yang berarti elemen tersebut akan menjadi bintang yang diberi penanda "active". Sebaliknya, jika indeks elemen saat di-klik lebih kecil dari indeks elemen dalam perulangan ini, maka menghapus kelas "active" dari elemen tersebut.
 6. Lalu mendefinisikan perilaku tombol pencarian (button) dengan kelas "button". Saat tombol ditekan (mousedown), menambahkan kelas "Clicked" ke tombol, dan saat tombol dilepaskan (mouseup) akan menghapus kelas tersebut.
-7. 
-
-
+7. Menangani elemen-elemen checkbox dengan kelas "item", dengan memilih semua elemen ini dan menambahkan event listener agar ketika salah satu elemen checkbox diklik, kelas "checked" ditambahkan atau dihapus.
