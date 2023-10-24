@@ -5,7 +5,6 @@
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
     list-style: none;
-    scroll-behavior: smooth;
 }
 
 @media (max-width: 1366px), (max-width: 768px), (max-width: 320px){
@@ -17,18 +16,62 @@
     }
 }
 
-/* Gallery */
-.gallery {
-    margin-left: 17vh;
+/* Link Styles */
+a {
+    text-decoration: none;
+    color: #000;
+    font-size: 1rem;
+}
+
+a:hover {
+    color: burlywood;
+}
+
+/* Navbar */
+.navbar {
     width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
-    margin-top: 10vh;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #000;
+}
+
+.navbar .links {
+    display: flex;
+    gap: 8rem;
+}
+
+@media (max-width: 1366px), (max-width: 768px), (max-width: 320px){
+    .navbar .links {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 10px;
+    }
+}
+
+/* Gallery */
+.gallery {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-top: -100px;
+    margin-bottom: -155px;
 }
 
 .gallery .box-gallery img {
-    width: 250px;
-    height: 250px;
+    width: 285px;
+    height: 285px;
     margin: 7px;
 }
 
@@ -55,16 +98,24 @@
     margin-left: 25px;
     margin-right: 25px;
 }
+
+header {
+    font-size: 24px;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
 /* Rating */
 .stars i {
+    margin: 0 5px;
     padding: 0;
     color: #b4b4b4;
     font-size: 20px;
     cursor: pointer;
     transition: color 0.2s ease;
     margin-top: 10px;
-    margin-left: 5vh;
-    margin-inline: 0;
 }
 
 .stars i.active {
@@ -79,9 +130,11 @@
     flex-direction: column;
     align-items: flex-end;
     text-align: right;
+    margin-top: -225px;
     float: right;
     margin-right: 5px;
 }
+
 .map-link {
     text-decoration: none;
     color: #333;
@@ -89,12 +142,14 @@
     display: flex;
     align-items: center;
 }
+
 .map-link i {
-    font-size: 20px; 
-    margin-right: 5px; 
+    font-size: 20px;
+    margin-right: 5px;
 }
+
 .map-link:hover {
-    color: burlywood; 
+    color: burlywood;
 }
 
 /* Isi ulasan */
@@ -104,7 +159,7 @@
     text-align: justify;
     max-width: 600px;
     margin-top: 10px;
-    margin-left: 5vh;
+    margin-left: 0;
 }
 
 /* Garis Pemisah */
@@ -113,21 +168,24 @@ hr {
     margin-top: 80px;
     margin-bottom: 20px;
 }
+
 /* Ikon dan Teks Harga Tiket Masuk dan Jam Operasional */
-.ticket, .opening-hours {
+.ticket,
+.opening-hours {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    color :#000 ;
+    color: #000;
 }
 
-.ticket i, .opening-hours i {
-    font-size: 24px; 
+.ticket i,
+.opening-hours i {
+    font-size: 24px;
     margin-right: 5px;
-    color: #3498db; 
+    color: #3498db;
 }
 
-/* fasilitas wisata*/
+/* fasilitas wisata */
 .facilities {
     background-color: #f5f5f5;
     padding: 20px;
@@ -220,8 +278,8 @@ hr {
     height: 40px;
     border-radius: 50%;
     object-fit: cover;
-    margin-right: 10px; 
-    margin-left: 10px; 
+    margin-right: 10px;
+    margin-left: 10px;
     margin-top: 10px;
 }
 
@@ -235,136 +293,165 @@ hr {
 
 .customer-review-list .stars {
     /* Use a yellow color for the star icon */
-    color: #ff9c1a; 
+    color: #ff9c1a;
     font-size: 24px;
 
-     /* Add some margin to the top */
-     margin-top : 10px; 
+    /* Add some margin to the top */
+    margin-top: 10px;
 }
 
 .customer-review-list p {
-     /* Use a smaller and lighter font for the content */
-     font-size : 16px; 
-     font-weight : light; 
-     color : #333; 
+    /* Use a smaller and lighter font for the content */
+    font-size: 16px;
+    font-weight: light;
+    color: #333;
 
-     /* Add some margin to the top and bottom */
-     margin-top : 10px; 
-     margin-bottom : 10px; 
+    /* Add some margin to the top and bottom */
+    margin-top: 10px;
+    margin-bottom: 10px;
 
-     /* Add quotation marks before and after the content */
-     &:before {
-         font-size : 32px; 
-         color : #ddd; 
-         vertical-align : top; 
-     }
+    /* Add quotation marks before and after the content */
+    &:before {
+        font-size: 32px;
+        color: #ddd;
+        vertical-align: top;
+    }
 
-     &:after {
-         font-size : 32px; 
-         color : #ddd; 
-         vertical-align : bottom; 
-     }
+    &:after {
+        font-size: 32px;
+        color: #ddd;
+        vertical-align: bottom;
+    }
 }
+
 /* Back Button Styles */
 .back-button {
     text-decoration: none;
     display: inline-block;
     background-color: #3498db;
     color: #fff;
-    padding: 10px 15px; 
+    padding: 10px 15px;
     border-radius: 5px;
     /* Change margin */
-    margin: 5px;
+    margin: 70px;
     /* Add cursor and transition */
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
 .back-button i {
-    margin-right: 5px; 
+    margin-right: 10px;
 }
 
 .back-button:hover {
     background-color: #2580b3;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-footer{
-	line-height: 1;
-	font-family: 'Poppins', sans-serif;
+
+/* Style for the Footer */
+.footer {
+    background-color: #215FB2; 
+    background-image: url('photo/Backgroun.png'); 
+    background-size: cover; 
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
 }
-.footer-content{
+
+.footer h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.footer p {
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+
+/* Footer Columns */
+.row-foot {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.footer-col {
+    text-align: left;
+    margin: 0 20px;
+    flex: 1;
+    max-width: 220px;
+    white-space: nowrap;
+}
+
+.footer-col h4 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    position: relative;
+    margin-right: 50px;
+}
+
+.footer-col h4::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    background-color: #2F80ED;
+    height: 2px;
+    width: 50px;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    transition: color 0.3s;
+    text-align: left;
+}
+
+.footer-col ul li a:hover {
+    color: #24262b;
+}
+
+/* Social Links */
+.social-links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.social-links a {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    height: 40px;
+    width: 40px;
+    background-color: #24262b;
+    margin: 0 5px;
+    border-radius: 50%;
+    color: #fff;
+    transition: all 0.3s;
+    text-decoration: none;
 }
-.footer-content h2{
-    margin-bottom: 15px;
+
+.social-links a:hover {
+    background-color: #555;
 }
-.footer-content p{
-    color: #2F80ED; 
-}
-.foot-container{
-	margin:auto;
-}
-.row-foot{
-	display: flex;
-	flex-wrap: wrap;
-}
-ul{
-	list-style: none;
-}
-.footer-col{
-   width: 25%;
-   padding: 0 15px;
-}
-.footer-col h4{
-	font-size: 16px;
-	text-transform: capitalize;
-	margin-top: 20vh;
-	font-weight: 500;
-	position: relative;
-}
-.footer-col h4::before{
-	content: '';
-	position: absolute;
-	left:0;
-	bottom: -7px;
-	background-color: #2F80ED;
-	height: 2px;
-	box-sizing: border-box;
-	width: 50px;
-}
-.footer-col ul li:not(:last-child){
-	margin-bottom: 10px;
-}
-.footer-col ul li a{
-    margin-top: 12px;
-	font-size: 16px;
-	text-transform: capitalize;
-	text-decoration: none;
-	font-weight: 300;
-	display: block;
-	transition: all 0.3s ease;
-}
-.footer-col ul li a:hover{
-	color: #2F80ED;
-	padding-left: 8px;
-}
-.footer-col .social-links a{
-	display: inline-block;
-	height: 40px;
-	width: 40px;
-	background-color:grey;
-	margin-top: 15px;
-	text-align: center;
-	line-height: 40px;
-	border-radius: 50%;
-	color: #ffffff;
-	transition: all 0.5s ease;
-}
-.footer-col .social-links a:hover{
-	color: #24262b;
-	background-color: #ffffff;}
+
+
+
+
+
 
 
