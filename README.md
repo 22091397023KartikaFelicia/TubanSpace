@@ -369,11 +369,11 @@ Langkah-langkah Proses:
 
 1. Pada awal kode mendeklarasikan dokumen HTML yang digunakan dengan elemen <!DOCTYPE html>.
 2. Bagian head digunakan untuk informasi meta dan referensi ke berkas eksternal seperti CSS dan JavaScript. Beberapa elemen di sini adalah:
-- Pengaturan karakter : <meta charset="UTF-8"> untuk mengatur karakter encoding ke UTF-8.
-- Viewport : <meta name="viewport" content="width=device-width, initial-scale=1.0"> untuk mengoptimalkan tampilan pada perangkat mobile.
-- Referensi CSS : merujuk ke tiga berkas CSS eksternal melalui elemen <link>.
-- Referensi JavaScript: Anda merujuk ke jQuery dan script.js melalui elemen <script>.
-- Referensi ikon : menggunakan ikon dari Font Awesome dan Unicons.
+   - Pengaturan karakter : <meta charset="UTF-8"> untuk mengatur karakter encoding ke UTF-8.
+   - Viewport : <meta name="viewport" content="width=device-width, initial-scale=1.0"> untuk mengoptimalkan tampilan pada perangkat mobile.
+   - Referensi CSS : merujuk ke tiga berkas CSS eksternal melalui elemen <link>.
+   - Referensi JavaScript: Anda merujuk ke jQuery dan script.js melalui elemen <script>.
+   - Referensi ikon : menggunakan ikon dari Font Awesome dan Unicons.
 4. Bagian body adalah tempat untuk konten yang akan ditampilkan di halaman web. Beberapa elemen di sini adalah:
 - Navbar: sebuah navigasi di bagian atas halaman web dengan logo "TUBANSCAPE" dan tautan menu seperti "Home," "Discover," dan "About."
 - Searchbar: Di bawah navbar, ada sebuah kotak pencarian dengan ikon dan tombol "Search."
