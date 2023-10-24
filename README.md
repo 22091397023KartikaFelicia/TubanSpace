@@ -2,18 +2,14 @@
   <h1>	SOFTWARE REQUIREMENTS SPECIFICATION </h1>
   <h1>	TUBAN SCAPE </h1>
   <h2>	Disusun Oleh : </h2>
-
   <p>	 Verani Fajrin Triana - 22091397018 </p>
   <p>	 Kartika Felicia - 22091397023 </p>
   <p>	 Khofifah Wulandari - 22091397034 </p>
-
   <h3>	PRODI D4 MANAJEMEN INFORMATIKA </h>
   <h3>	FAKULTAS VOKASI </h>
   <h3>	UNIVERSITAS NEGERI SURABAYA </h>
   <h3>	2023 </h>
 </div>
-
-
 
 
 **SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK WEBSITE "TUBANSCAPE"**
