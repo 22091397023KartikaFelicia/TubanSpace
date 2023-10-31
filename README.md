@@ -206,16 +206,16 @@ Antarmuka Perangkat Keras yang digunakan oleh Tuban Scape adalah Smartphone atau
 ## 3.3. User Interface
 
 A. Home
-   ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Homepage.png) 
+   ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/ui%20home.png) 
 
 B. Discover
    - Tampilan Rekomendasi Wisata
-     ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Search%20Results.png)
+     ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/ui%20discover.png)
    - Tampilan Detail Wisata
-     ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/Product%20detail.png)
+     ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/ui%20detail.png)
 
 C. About
-   ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/About.jpg)
+   ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/ui%20about.png)
 
 <div align="center">
   
