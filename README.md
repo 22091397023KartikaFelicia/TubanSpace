@@ -36,9 +36,9 @@
 - [BAB 3](#BAB-3)
 - [PERSYARATAN ANTARMUKA](#PERSYARATAN-ANTARMUKA)
 
-- [3.1. ANTARMUKA PENGGUNA](#31-Antarmuka-Pengguna)
-- [3.2. ANTARMUKA HARDWARE](#32-Antarmuka-Hardware)
-- [3.3. USER INTERFACE](#33-User-Interface)
+- [3.1. Antarmuka Pengguna](#31-Antarmuka-Pengguna)
+- [3.2. Antarmuka Hardware](#32-Antarmuka-Hardware)
+- [3.3. User Interface](#33-User-Interface)
 
 - [BAB 4](#BAB-4)
 - [FITUR](#FITUR)
