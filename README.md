@@ -37,8 +37,8 @@
 - [PERSYARATAN ANTARMUKA](#PERSYARATAN-ANTARMUKA)
 
 - [3.1. Antarmuka Pengguna](#31-Antarmuka-Pengguna)
-- [3.2. Antarmuka Hardware](#32-Antarmuka-Hardware)
-- [3.3. User Interface](#33-User-Interface)
+- [3.2. Antarmuka Perangkat Keras](#32-Antarmuka-Perangkat-Keras)
+- [3.3. Antarmuka Perangkat Lunak](#33-Antarmuka-Perangkat-Lunak)
 
 - [BAB 4](#BAB-4)
 - [FITUR](#FITUR)
@@ -199,11 +199,11 @@ Ketergantungan :
 
 Tuban Scape menggusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Kombinasi warna yang dipilih dirancang dengan teliti, menciptakan tampilan yang nyaman di mata tanpa kesan norak.
 
-## 3.2. Antarmuka Hardware
+## 3.2. Antarmuka Perangkat Keras
 
 Antarmuka Perangkat Keras yang digunakan oleh Tuban Scape adalah Smartphone atau komunter untuk mengakses website Tuban Scape.
 
-## 3.3. User Interface
+## 3.3. Antarmuka Perangkat Lunak
 
 A. Home
    ! [image](https://github.com/22091397023KartikaFelicia/TubanSpace/blob/main/photo/ui%20home.png) 
